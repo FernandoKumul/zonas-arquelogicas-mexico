@@ -457,6 +457,114 @@
 
   {
     "id": 1,
+    "nombre": "Kabah",
+    "significado": "Kabah es uno de los pocos asentamientos que conservan su nombre prehispánico, del cual se hace mención en el Chilam Balam de Chumayel, y que significa “la mano poderosa”.",
+    "relevanciaCultural": "Kabah es una zona arqueológica localizada en la Región Puuc, en la Península de Yucatán. Su importancia es notable puesto que el nombre de la ciudad es mencionado en el libro del Chilam Balam de Chumayel. Comúnmente se asume que los sitios de la Región Puuc ocupan una temporalidad de 600 a 900 d. C., pero es innegable que sitios como Kabah se remontan por lo menos al Clásico Temprano. Una de las características sobresalientes de la zona es la confluencia de estilos arquitectónicos, porque a pesar de localizarse en la Región Puuc, se pueden apreciar elementos del estilo Petén y Chenes. Cronología: 600 a. C. a 1000 d. C. Ubicación cronológica principal: Clásico Tardío: 600 a 1000 d. C.",
+    "estado": "Yucatan",
+    "abierto": true,
+    "coordenadas": [20.24902431541195, -89.64762408465887],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3743.241347341583!2d-89.647667!3d20.248823!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f57b43c953bf2c3%3A0x6a95e80df9ac2d1d!2sZona%20Arqueol%C3%B3gica%20de%20Kabah!5e0!3m2!1ses-419!2smx!4v1699040087901!5m2!1ses-419!2smx",
+    "foto": "https://rinconesdemexico.com/wp-content/uploads/shutterstock_309364388.jpg"
+  },
+  
+  {
+    "id": 1,
+    "nombre": "Labná",
+    "significado": "Toponímicamente Labná, palabra de origen maya yucateco, significa “casa vieja”.",
+    "relevanciaCultural": "Este sitio, al igual que otros ubicados en la Región Puuc, fue de importancia en la época Clásica, pero es probable que el asentamiento se encontrara bajo el dominio de algún sitio que funcionaba como capital regional. Durante esta época los centros económicos y políticos más importantes de la región fueron: Uxmal, Sayil y Kabah, que junto con Oxkintok, Labná y Nohpat parecen haber controlado la totalidad de la cordillera del Puuc, así como algunas porciones de las planicies del norte; se presume que el esquema de organización socio-política básica, era el de grandes centros autónomos con una plena organización estatal; parece claro que estos asentamientos centralizaban en un grado muy alto la mayoría de las funciones de la región. El manejo de espacios y elementos arquitectónicos demuestran la interacción que existió entre las entidades políticas. Cronología: 200 a. C. a 1000 d. C. Ubicación cronológica principal: Clásico Tardío y Posclásico Temprano, 800 a 1000 d.C.",
+    "estado": "Yucatan",
+    "abierto": true,
+    "coordenadas": [20.175292078072378, -89.57969364545805],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d59921.15716778456!2d-89.579007!3d20.172714!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f57b05b244d9cdd%3A0xe6f207f4f49c28c2!2sZona%20Arqueol%C3%B3gica%20de%20Labn%C3%A1!5e0!3m2!1ses-419!2smx!4v1699041125145!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Labn%C3%A1.JPG"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Loltún",
+    "significado": "El nombre del sitio se compone de dos vocablos mayas: Lol Tun cuyo significado es “flor de piedra”.",
+    "relevanciaCultural": "Loltún etimológicamente proviene del Maya yucateco Lol 'Flor' y Tun 'Piedra', 'Flor de Piedra'. En la actualidad las grutas de Loltún son el sitio arqueológico que contiene la más amplia secuencia cronológica en el norte de la Península de Yucatán. Las evidencias culturales en estas grutas sugieren, además, un uso como campamento en etapas tempranas y posteriormente habitacional. La secuencia de ocupación inicia con materiales que son producto de la presencia temprana del hombre en la Península de Yucatán, hacia 9000 a. C., y continúan con la domesticación de plantas y animales y posteriormente la incorporación de la arquitectura y la escultura, a sus actividades cotidianas, lo que ilustra el proceso social que llevó al hombre nómada a convertirse en sedentario. A partir del periodo Clásico, las grutas dejan de utilizarse como lugar de vivienda y solo existe evidencia de su uso como lugar de abastecimiento de agua. Otros elementos importantes son las 145 pinturas murales y los 42 petroglifos localizados hasta ahora. Cronología: 9000 a. C. a 1500 d. C. Ubicación cronológica principal: Preclásico Tardío, 400 a. C. a 200 d. C.",
+    "estado": "Yucatan",
+    "abierto": false,
+    "coordenadas": [20.25357057145365, -89.455978101847],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3743.1327380991484!2d-89.455903!3d20.253329!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f57abea089027cd%3A0x95aef4f0dbddfe31!2sGrutas%20de%20Lolt%C3%BAn!5e0!3m2!1ses-419!2smx!4v1699041303077!5m2!1ses-419!2smx",
+    "foto": "https://www.yucatan.gob.mx/docs/galerias/loltun/loltun0.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Mayapán",
+    "significado": "Mayapán, en lengua maya yucateca deriva de los vocablos: Mayab, que corresponde al nombre de la Península de Yucatán para antes de la conquista; ma’ se refiere la negativa no; ya’ab, mucho, bastante, abundante y pan que significa bandera, estandarte o pendón, lo que al parecer se traduce como: la bandera de los mayas",
+    "relevanciaCultural": "La ciudad amurallada de Mayapán, está considerada como la última gran capital de la cultura maya en el Posclásico (1200-1450 d. C.). Tiene una extensión de 4 km², en la que hay aproximadamente 4,000 estructuras y se cree que la urbe tuvo una población de 12,000 habitantes. En el sitio y a través de la arquitectura se puede observar la fuerte influencia de Chichen Itzá un ejemplo de ello es el edificio principal o mejor conocido como Castillo de Kukulkán, el cual es igual al de Chichen Itzá solo que de menor tamaño. En la Plaza Central se hallan los edificios cívicos, administrativos y religiosos, así como las residencias de la clase gobernantes. Se trata de edificios construidos sobre basamentos que tienen pasillos con columnas, templos y oratorios con un altar al fondo y banquete a los lados. También son representativos los edificios redondos, conocidos como observatorios y los pequeños santuarios. Mayapán estuvo habitada desde el inicio de nuestra era hasta la caída de la ciudad alrededor de 1450 d. C. Se sabe que la gente vivió en los alrededores del sitio desde el Preclásico y el Clásico Temprano (300 a. C.-600 d. C.).",
+    "estado": "Yucatan",
+    "abierto": true,
+    "coordenadas": [20.62969430393107, -89.46048906015837],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1866.9815970020284!2d-89.460076!3d20.630357!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f565eba3ba14ad5%3A0x41f8a53db24abc89!2sZona%20Arqueol%C3%B3gica%20de%20Mayap%C3%A1n!5e0!3m2!1ses-419!2smx!4v1699041393639!5m2!1ses-419!2smx",
+    "foto": "https://en-yucatan.com.mx/gallery/mayapan/mayapan-m.JPG"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Oxkintok",
+    "significado": "La palabra maya Oxkintok, durante mucho tiempo y por una interpretación literal, fue costumbre traducirla como “tres días de quema”, puesto que se compone por los vocablos Ox: tres; Kin: día o sol; y Tok: pedernal; es decir, “tres días pedernal” o “tres soles cortantes”. Actualmente se maneja como un posible significado “la ciudad de los tres soles de pedernal”.",
+    "relevanciaCultural": "LOxkintok es considerado uno de los asentamientos más importantes del norte de Yucatán y, quizás, la ciudad más antigua de la región Puuc central. Su posición le permitió controlar el flujo de bienes comerciales procedentes del sur de la península y conectarse con otras culturas contemporáneas. Su cronología principal es Preclásico Superior y se extiende hasta el Posclásico Temprano, del 300 a. C., a aproximadamente 1200 d. C.",
+    "estado": "Yucatan",
+    "abierto": true,
+    "coordenadas": [20.56208345073776, -89.95404230682256],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d29885.148071803604!2d-89.953184!3d20.561762!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f56265a771de78f%3A0x63c2bf3471a90da0!2sZona%20Arqueol%C3%B3gica%20de%20Oxkintok!5e0!3m2!1ses-419!2smx!4v1699041643434!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/1/19/Laberinto_Oxkintok.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Sayil",
+    "significado": "Sayil significa 'Lugar de las hormigas arrieras'.",
+    "relevanciaCultural": "Sayil es una de las ciudades más importantes de la Región Puuc. Se encuentra asentada en un valle angosto rodeado de lomeríos. Las características geológicas del lugar hacen que el agua en superficie esté completamente ausente, por lo que los antiguos pobladores tuvieron que horadar el suelo rocoso para construir depósitos o chultunes para el agua. Su tamaño, concentración y elaboración arquitectónica, similar al de Uxmal y Kabah, refleja que tuvo un alto índice de población y que el grado de organización social y los niveles de especialización artesanal fueron elevados. Los estudios de patrón de asentamiento han revelado que Sayil incluía en su área de sustentación sitios como Sayil-Sodzil, Xcavil de Yaxché, Chac y la Gruta de Chac, los cuales concentrarían junto con Sayil la cantidad de 17,000 personas. Cronología: Clásico Tardío 800 a 1000 d. C.",
+    "estado": "Yucatan",
+    "abierto": true,
+    "coordenadas": [20.17838547716646, -89.65209469445908],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3744.9411902214943!2d-89.65232!3d20.178174!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f57b71069900a0d%3A0xc8da780b578e78f7!2sSayil%20Zona%20Arqueol%C3%B3gica!5e0!3m2!1ses-419!2smx!4v1699041760972!5m2!1ses-419!2smx",
+    "foto": "https://yucatan.travel/wp-content/uploads/2019/11/Sayil1.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Xlapak",
+    "significado": "La palabra maya Xlapak significa “muros viejos”, “viejas murallas” o “pared vieja.”",
+    "relevanciaCultural": "Xlapak sostuvo un intercambio comercial con otras zonas de Mesoamérica en productos como sal, miel, algodón, plumas, cera y otros, que se obtenían en abundancia en la región. Xlapak fue una de las áreas más densamente pobladas en tiempos prehispánicos, dedicada al cultivo de la tierra, lo que se logró gracias al desarrollo de obras hidráulicas como los chultunes y las aguadas, sistemas artificiales de captación de agua. Se considera que este sitio estuvo bajo el dominio de algún sitio mayor y ambos a su vez, debieron estar sujetos a la cabecera regional: Uxmal. Al igual que otros sitios de la región Puuc, Xlapak tuvo su época de esplendor durante el periodo Clásico Tardío-Terminal (800-1000 d. C.). En este lapso la región adquirió cada vez mayor importancia y en consecuencia hubo un extraordinario florecimiento en los aspectos culturales en el área. Su cronología principal es Clásico Tardío-Terminal (800-1000 d. C.).",
+    "estado": "Yucatan",
+    "abierto": true,
+    "coordenadas": [20.175007211660795, -89.60739527116473],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3745.0179766650335!2d-89.607406!3d20.174977!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f57b0c2b7b17003%3A0x702cc88a1505d16d!2sZona%20Arqueol%C3%B3gica%20de%20Xlapak!5e0!3m2!1ses-419!2smx!4v1699041900319!5m2!1ses-419!2smx",
+    "foto": "https://programadestinosmexico.com/wp-content/uploads/2023/10/Xlapak1-.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Xcambó",
+    "significado": "El nombre de Xcambó viene del Maya que significa Cocodrilo Celestial o Lugar donde se realizan trueques.",
+    "relevanciaCultural": "Los habitantes de Xcambó se establecieron en un petén, el más amplio de la región, con numerosos rasgos útiles para la habitación: suelo, agua potable y materiales para sus edificios. El sitio fue erigido como puerto comercial durante el periodo Clásico Temprano (c. 350-550 dC). Su función consistió en la administración de las salinas y los productos marinos, además de ser el centro de captación de bienes a nivel local, regional y supraregional. La presencia, en este periodo dentro de Xcambó, de caminos blancos, andadores o sak be`oob parecen mostrar fuertes contactos con sitios contemporáneos como Misnay, Ucí e Izamal. La ciénega debió ser uno de los lugares de comunicación y contacto con el puerto, lo cual se demuestra por la existencia de un atracadero o muelle para el embarque y desembarque de los bienes de comercio.",
+    "estado": "Yucatan",
+    "abierto": true,
+    "coordenadas": [21.31352598512884, -89.35381505028268],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3716.937242004813!2d-89.354094!3d21.313496!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f54325b85f71bb7%3A0x142ef10d4ba52712!2sZona%20Arqueol%C3%B3gica%20Xcamb%C3%B3!5e0!3m2!1ses-419!2smx!4v1699042049365!5m2!1ses-419!2smx",
+    "foto": "https://www.piesviajeros.mx/wp-content/uploads/2018/07/1103-2019-113993699003495332429.jpeg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Uxmal",
+    "significado": "Uxmal es un topónimo antiguo, ya que aparece en diversos documentos coloniales tempranos, sin embargo, su etimología no se ha explicado satisfactoriamente. La interpretación tradicional del significado de la palabra es “Tres veces construida”, lo cual podría ser una alusión a varias ocupaciones sucesivas del sitio. También es posible que el vocablo ux (“cosechar”, en el maya yucateco) transmita la idea de una región de abundantes cosechas, de acuerdo con la potencialidad agrícola de la región Puuc.",
+    "relevanciaCultural": "Es sin duda el asentamiento más representativo de la arquitectura de la Región Puuc. En este las fachadas están decoradas con mascarones de Chac, el Dios de la Lluvia, grecas, paneles con jeroglíficos y altas cresterías. Entre los edificios más representativos están la Pirámide del Adivino, el Cuadrángulo de las Monjas y la Casa de las Palomas. Ubicación cronológica principal: Clásico Tardío 600 a 900 d. C.",
+    "estado": "Yucatan",
+    "abierto": true,
+    "coordenadas": [20.361195877200263, -89.77073235582361],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3740.5295424300625!2d-89.770786!3d20.361045!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f56349ebaba4e77%3A0x1128a45bd7051c7!2sZona%20Arqueol%C3%B3gica%20de%20Uxmal!5e0!3m2!1ses-419!2smx!4v1699042804712!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Uxmal_Yucatan_Mexico.JPG"
+  },
+
+  {
+    "id": 1,
     "nombre": "",
     "significado": "",
     "relevanciaCultural": "",
@@ -466,5 +574,4 @@
     "map": "",
     "foto": ""
   }
-  
 ]
