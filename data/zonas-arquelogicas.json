@@ -9,5 +9,186 @@
     "coordenadas": [32.53596680024607, -116.09471899999996],
     "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6727.291654279588!2d-116.09471899999998!3d32.535605!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d9b77dd67aab05%3A0x3bba7f70348073ab!2sZona%20Arqueol%C3%B3gica%20El%20Vallecito!5e0!3m2!1ses-419!2smx!4v1698965407094!5m2!1ses-419!2smx",
     "foto": "https://images.myguide-cdn.com/md/mexico/companies/el-vallecito-archaeological-zone/large/el-vallecito-archaeological-zone-711373.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Las labradas",
+    "significado": "El nombre de la zona deriva de la cantidad de petrograbados que existen entre la superficie de la arena y parte del mar, se localizan un grupo de rocas con manifestación rupestre distribuidas en una franja costera. Es uno de los sitios de grabados más importantes del noroeste de México.",
+    "relevanciaCultural": "Las Labradas fue declarada como Zona de Monumentos Arqueológicos el 30 de Noviembre del 2012 en donde existen más de 600 grabados rupestres elaborados sobre rocas de origen volcánico, con representaciones antropomorfas, zoomorfas, fitomorfas y figuras geométricas como: círculos concéntricos, espirales, cruces, entre otras. Asociados con estos afloramientos se localizan grandes cantidades de cantos rodados; al parecer son los vestigios de un antiguo río que desembocaba en este mismo lugar. Algunos de estos grabados rupestres fueron realizados entre los años 750 al 1250 D. C. (Periodo Aztatlán); a unque con las ultimas investigaciones, es posible que algunos grabados hayan sido realizados para la época arcaica (3000 A. C.).",
+    "estado": "Sinaloa",
+    "abierto": true,
+    "coordenadas": [23.620705939262805, -106.76698683069294],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7311.09650852769!2d-106.766901!3d23.620529!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86a26d1f90998d1d%3A0xd740f5fa043fecc2!2sZona%20arqueol%C3%B3gica%20de%20Las%20Labradas!5e0!3m2!1ses!2smx!4v1698988356188!5m2!1ses!2smx",
+    "foto": "https://i0.wp.com/www.sinaloa360.com/wp-content/uploads/2020/03/las-labradas.jpg?fit=800%2C400&ssl=1"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Calica",
+    "significado": "El nombre Calica (Calizas Industriales del Carmen) corresponde a las siglas de la empresa en cuyos terrenos se encuentra el sitio. Dentro de los terrenos de la empresa se localizan varios conjuntos, destacando el Grupo “P” de Xcaret, también conocido como “Rancho Ina” (“semilla” en maya), por un rancho que existió en el lugar o también como Punta Venado, por el nombre del paraje en donde se encuentra.",
+    "relevanciaCultural": "El 'Grupo P' es un conjunto monumental conformado por una plataforma con estructuras de diversas épocas, así como un basamento integrado por dos plataformas sobre las que se levantan otras estructuras y una pirámide de cinco cuerpos. El conjunto es un ejemplo representativo de arquitectura temprana en la región, que data del Preclásico tardío (300 - 50 a.C.) y Clásico temprano (250 – 600 d.C.), con una importante reutilización durante el Posclásico tardío (1200 – 1450 d.C.). Sobre una de las plataformas (“Gran Plataforma P”) se conserva un edificio estilo Costa Oriental, conocido como "Templo de las Columnas", que en su interior conserva un santuario conocido como “La Casa Azul”, que presenta hasta 26 capas de aplanados de estuco, incluyendo un espléndido mural en la fachada, del que se conserva poco más del 35%, por lo que es un sitio representativo de la pintura mural posclásica de la región, donde se plasmaron aspectos relevantes sobre la concepción del cosmos maya de esa época.",
+    "estado": "Quintana Roo",
+    "abierto": false,
+    "coordenadas": [20.59424587999317, -87.13414602304452],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d956207.6299090261!2d-88.35749772187496!3d20.580458200000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e441cbb19b79f%3A0xc3ed33636cd96dec!2sZona%20arqueol%C3%B3gica%20Rancho%20Ina%20-%20CALICA!5e0!3m2!1ses!2smx!4v1698989121109!5m2!1ses!2smx",
+    "foto": "https://4.bp.blogspot.com/-T7jYZm9U_B4/WMmi-u4l_AI/AAAAAAAAAwE/McvulC8ajRowwzYCazNKbQGvb5HFhf7iACLcB/s1600/calica2.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Chakanbakan",
+    "significado": "El nombre original del sitio se desconoce. La parte central de la ciudad se encuentra rodeada por la Laguna Om. Chakanbakán proviene de la lengua maya y significa “rodeado de sabana”. Es el nombre de otra laguna situada al norte del sitio arqueológico.",
+    "relevanciaCultural": "La ciudad maya de Chakanbakán está considerada dentro de la extensión geográfica del estilo Río Bec; sin embargo, el estilo imperante en el sector nuclear es el Petén. El sitio arqueológico no ha sido estudiado con anterioridad al INAH y las primeras investigaciones de esta institución, efectuadas por el Arqlgo. Fernando Cortés, se produjeron a partir de los años ochenta. Se calcula que la fundación del asentamiento es de etapas tempranas. En el Preclásico tardío (300 - 50 antes de nuestra era) llegaron los primeros habitantes procedentes probablemente del Petén guatemalteco. Quienes escogieron el lugar tomaron en cuenta consideraciones significativas para el desarrollo del asentamiento: previeron inundaciones, se protegieron de ataques externos y escogieron el mejor lugar sobre el que trazarían el sector nuclear, es decir, una especie de centro de la ciudad, mediante la selección de una elevación natural del terreno en forma de península rodeada por el agua de la laguna, mientras que el resto del sitio se construyó fuera de este sector.",
+    "estado": "Quintana Roo",
+    "abierto": false,
+    "coordenadas": [18.45336510165701, -89.08999869246784],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d60553.42879612351!2d-89.1001267142334!3d18.456947430355243!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f596b69f35d60c5%3A0xec95cfcf9039d611!2sZona%20Arqueolog%C3%ADa%20Chakanbak%C3%A1n!5e0!3m2!1ses-419!2smx!4v1698989318930!5m2!1ses-419!2smx",
+    "foto": "https://lugares.inah.gob.mx/images/zonas/portadas/_thumb1/233_A_000.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Cobá",
+    "significado": "Algunas inscripciones jeroglíficas encontradas en estelas y paneles del sitio nos permiten afirmar que Cobá fue el nombre original de la ciudad. Uno de los posibles significados y el más plausible, dada su cercanía a las lagunas, es el de “agua picada”.",
+    "relevanciaCultural": "La ciudad de Cobá se desarrolló cerca de cinco lagos que fueron un factor fundamental para su desarrollo y subsistencia. Con aproximadamente 70km2 de extensión, la ciudad estaba comunicada por extensos caminos levantados de piedra, conocidos en lengua maya como sacbé (camino blanco), de longitud y ancho variables. El más largo de ellos con 100 km., llega al sitio de Yaxuná, muy cerca de Chichén Itzá. Los habitantes de Cobá que no pertenecían a la clase poderosa, residían en los alrededores del núcleo de la ciudad, en viviendas muy similares a las de los mayas modernos. La evidencia de los primeros asentamientos humanos registrados, es entre 100 a.C. y 300 d.C., cuando pensamos que consistía de una serie de aldeas situadas en la cercanía de los lagos, cuya economía se basaba en la agricultura y la caza. Ya entre 300 y 600 d. C., Cobá se desarrolló centralizando el poder económico y político, controlando varios poblados cercanos. Las vías de comunicación internas y hacia otros poblados y regiones, constituida por más de 50 caminos, se construyó entre 600 d.C. y 800 d.C., momento en que también se erigen la mayoría de las estelas del sitio. El auge constructivo de la ciudad ocurrió entre 800 y 1000 d.C., cuando se amplió la red de caminos, se construyeron nuevos edificios y se estrecharon sus relaciones con la Costa del Golfo, mientras decrecieron con la región del Petén. Su fuerza hegemónica empezó a debilitarse entre 1000 y 1450 d. C., cuando recibió nuevas influencias de grupos más “mexicanizados”. Un nuevo estilo arquitectónico es introducido e incorporado a las construcciones existentes y la mayor parte de sus monumentos esculpidos, reubicados en pequeñas plataformas y nichos.",
+    "estado": "Quintana Roo",
+    "abierto": true,
+    "coordenadas": [20.490123601927223, -87.72964957673231],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7474.800997522715!2d-87.729435!3d20.489802!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f51cf546e480153%3A0xc67bf794d06103de!2sZona%20arqueol%C3%B3gica%20de%20Coba!5e0!3m2!1ses-419!2smx!4v1698989637030!5m2!1ses-419!2smx",
+    "foto": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/quintanaroo/Coba-Dron-30-227d35b85056a36_227d3762-5056-a36a-08955f7705f90427.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Caracol",
+    "significado": "El nombre de El Caracol le fue dado a partir de los caracoles que ornamentan la pequeña cúpula que corona la techumbre de este pequeño templo. También se le conoce como “Tumba del Caracol”, por su pequeño tamaño, que asemeja un túmulo funerario.",
+    "relevanciaCultural": "Se trata de un conjunto de estructuras de estilo Costa Oriental, construido durante el Postclásico tardío (1200 – 1500 d.C.), que incluye los restos de dos templos principales cuyas techumbres se encuentran derrumbadas, pero que parecen haber sido abovedadas. Muy cerca de ellos se encuentra el edificio de El Caracol, que originalmente fue un templo miniatura de techo abovedado y cuatro puertas, que posteriormente fue envuelto en tres de sus lados por una construcción más grande. Sobre el techo tiene un pequeño templete cuadrado, con cuatro aberturas y un agujero superior, donde se colocó un remate en forma de caracol, decorado con cuatro hileras de caracoles naturales empotrados en el estuco. En el imaginario popular se dice que el viento hace silbar los caracoles, y que los antiguos mayas lo relacionaron con los huracanes y con el culto al viento; sin embargo, no existe evidencia concreta que así lo demuestre, como tampoco existe ninguna asociación del edificio con la diosa Ixchel, a la que los cronistas españoles del siglo XVI vincularon con la isla de Cozumel y sus edificios.",
+    "estado": "Quintana Roo",
+    "abierto": false,
+    "coordenadas": [20.280311623871178, -86.97907835062303],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d18707.263631785223!2d-86.9929325507555!3d20.278021338879167!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4fab608a68b9f1%3A0xa93a59869c7b5be7!2sZona%20Arqueol%C3%B3gica%20El%20Caracol!5e0!3m2!1ses-419!2smx!4v1698989871240!5m2!1ses-419!2smx",
+    "foto": "https://www.turimexico.com/wp-content/uploads/2016/06/Zona-Arqueol%C3%B3gica-Caracol-Punta-Sur-Quintana-Roo.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Chacchoben",
+    "significado": "No se tienen evidencias que permitan conocer el nombre que tuvo el sitio en la época prehispánica, por lo cual se retomó el nombre del Ejido donde se ubica, y que puede traducirse del maya como 'Lugar del maíz colorado'",
+    "relevanciaCultural": "Es el asentamiento de mayor importancia detectado a la fecha en la Región de los Lagos, cuya ocupación inició 300 años antes de nuestra era (Preclásico tardío), con pequeños caseríos alrededor de los cuerpos permanentes de agua dulce de la región. Con base en las investigaciones realizadas a la fecha, se asume que fue durante los primeros años del Clásico temprano (250 d.C.) cuando se efectuó la traza urbana que hoy se conserva y la construcción de la mayoría de las estructuras que conforman el núcleo del asentamiento, que comprende alrededor de 70 hectáreas, en donde se ubican conjuntos arquitectónicos de carácter público con diferentes funciones cívicas, religiosas y administrativas. Construido en sus inicios bajo los patrones estilísticos del Petén, el sitio continuó su crecimiento y desarrollo por 500 años más, en los cuales desarrolló el estilo arquitectónico que lo caracteriza y en el cual, se entremezclan rasgos de los estilos Río Bec y Chenes, debido probablemente a su ubicación estratégica. Posteriormente experimentó un posible decaimiento poblacional y un virtual abandono, que ocasionó el cese constructivo de edificios de carácter público, aunque es factible que este abandono no fuera generalizado en toda el área. Finalmente, en el período Posclásico tardío (1200 -1450 d.C.), se rehabilitaron algunos espacios cívicos y religiosos, lo que pudiera indicar un repoblamiento al menos parcial. Las únicas dos estelas con inscripciones jeroglíficas encontradas a la fecha, resultan ilegibles debido a su deterioro, por lo cual solo se puede asumir, por el momento, que Chacchoben era un sitio importante vinculado a alguna capital regional mayor, situación que bien pudo cambiar en el tiempo durante el cual el sitio permaneció habitado.",
+    "estado": "Quintana Roo",
+    "abierto": true,
+    "coordenadas": [19.001772614893365, -88.23146330692929],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d60358.63209932073!2d-88.230605!3d19.001448000000003!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5a59efcf2f77df%3A0x3369c7ce095a4b32!2sZona%20Arqueol%C3%B3gica%20de%20Chacchoben!5e0!3m2!1ses-419!2smx!4v1698990068451!5m2!1ses-419!2smx",
+    "foto": "https://www.inah.gob.mx/images/zonas/quintanaroo/chacchoben/20220809_za_chacchoben_head.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Dzibanché ",
+    "significado": "Se desconoce el nombre original del asentamiento. Dzibanché es el nombre que Thomas Gann (médico militar y arqueólogo amateur inglés) asignó al sitio durante su visita en 1927. Es un vocablo maya que significa “escritura en madera” y hace alusión a los dinteles de madera tallada ubicados en los vanos del Templo del Edificio VI, los cuales fueron retirados para garantizar su conservación.",
+    "relevanciaCultural": "El complejo Dzibanché - Kinichná se encuentra en una zona de transición entre la selva baja del norte de la Península de Yucatán y la selva tropical lluviosa del Petén. El asentamiento ocupa una extensión de más de 40 km2 y se conforma por cuatro grupos de arquitectura monumental: Dzibanché o Grupo Principal, Complejo Central o Grupo Lamay, Tutil y Kinichná, grupos que tuvieron funciones específicas, intercomunicados por sacbés o caminos blancos mayas. En la arquitectura del sitio es posible observar el estilo Peten, estilo que fue remplazado a mediados del Clásico (aprox. 600 d.C.), por templos con fachadas decoradas con pilastras pareadas, bóvedas muy altas de doble desarrollo con tensores en los extremos de sus estrechas galerías y basamentos con cuerpos decorados con talud – tablero, características pertenecientes a un estilo local, asociado a la dinastía Kaan, que se estableció en el sitio durante el Clásico temprano. La existencia de textos jeroglíficos grabados en los monumentos de la escalera del Templo de los Cautivos y hallazgos de ofrendas suntuosas en cámaras funerarias, denotan que Dzibanché estuvo involucrado en la conquista de varios pueblos, conquistas bélicas realizadas por varios gobernantes de la familia Kaan, durante más de dos siglos. La secuencia de ocupación de Dzibanché tiene sus inicios en el Preclásico tardío (300 a.C.), y el asentamiento alcanzó su clímax poblacional en el Clásico (400-700), cuya población perduró hasta el Posclásico tardío (1500 d.C.). En el Grupo Principal, los edificios principales son los Templos I (o Templo del Búho) y el Templo II (o Templo de los Cormoranes), ubicados en la Plaza Xibalbá; y los Edificios de los Cautivos y de los Tucanes, ubicados en la Plaza Gann.",
+    "estado": "Quintana Roo",
+    "abierto": true,
+    "coordenadas": [18.639702979200273, -88.75973928836616],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7561.098330314373!2d-88.759632!3d18.639337!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5bd7bd3a9cd40b%3A0x7fe9e0530881b83!2sZona%20Arqueol%C3%B3gica%20de%20Dzibanch%C3%A9%20-%20Kinichn%C3%A1!5e0!3m2!1ses-419!2smx!4v1698992047928!5m2!1ses-419!2smx",
+    "foto": "https://www.turimexico.com/wp-content/uploads/2016/05/Zona-Arqueol%C3%B3gica-Dzibanch%C3%A9-Quintana-Roo.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Kinichná",
+    "significado": "Kinichná quiere decir Casa del sol en maya. La zona arqueológica de Kinichná se encuentra en el sur del estado de Quintana Roo, al noroeste de la ciudad de Chetumal, capital del estado y es forma parte del complejo Dzibanché-Kinichná.",
+    "relevanciaCultural": "Dzibanché-Kinichná en realidad corresponde a un conjunto de complejos de arquitectura monumental, vinculados no sólo por una historia común —a juzgar por la uniformidad de estilos que comparten—, sino también físicamente, a través de sacbeoob o caminos blancos que unen los complejos mayores. Su cronología principal abarca la mayor parte del periodo Clásico, del 300 al 900 d. C.",
+    "estado": "Quintana Roo",
+    "abierto": false,
+    "coordenadas": [18.640517576326783, -88.75955351403503],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7561.098330314373!2d-88.759632!3d18.639337!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5bd7bd3a9cd40b%3A0x7fe9e0530881b83!2sZona%20Arqueol%C3%B3gica%20de%20Dzibanch%C3%A9%20-%20Kinichn%C3%A1!5e0!3m2!1ses-419!2smx!4v1698992047928!5m2!1ses-419!2smx",
+    "foto": "https://sic.cultura.gob.mx/images/50413"
+  },
+
+  {
+    "id": 1,
+    "nombre": "El Meco",
+    "significado": "El nombre original del sitio se desconoce. Según cronistas del siglo XVI, el nombre del sitio pudo ser Belma. “El Meco” era el apodo de un residente local del siglo XIX, cuyo sobrenombre hacía referencia a una malformación de sus extremidades inferiores; quedó asociado a las ruinas, puesto que era el cuidador de un pequeño rancho en la playa, localizado en las inmediaciones del actual faro.",
+    "relevanciaCultural": "El Meco está localizado en la costa norte de Quintana Roo, justo en la bahía de Isla Mujeres, por lo que es muy probable que haya tenido un papel relevante en la ruta de navegación maya a lo largo de toda costa. En sus primeras etapas, en el Clásico tardío (600 – 800 d.C.), el asentamiento estuvo vinculado con Cobá, como una aldea de pescadores de relativa importancia. El edificio conocido como “El Castillo” es el más alto de la región y desde su cima puede tenerse una visión privilegiada de la isla de Cancún y sus zonas aledañas, lo que debió conferirle una importancia estratégica en la época prehispánica. Su puerto fue el centro de una importante actividad comercial y desde allí seguramente se controló el acceso hacia la vecina Isla Mujeres, que funcionó como uno de los santuarios más importantes del Postclásico tardío (1200 – 1500 d.C.).",
+    "estado": "Quintana Roo",
+    "abierto": true,
+    "coordenadas": [21.517773920426862, -86.93600294433843],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7617596.867831789!2d-86.804167!3d21.210833!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4c2e60c3a700cf%3A0x3a361b9eaa9e75ed!2sZona%20Arqueol%C3%B3gica%20de%20El%20Meco!5e0!3m2!1ses-419!2smx!4v1698993101538!5m2!1ses-419!2smx",
+    "foto": "https://mediaim.expedia.com/destination/1/32317a0879eb8007a8aeaa44bc1348b5.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "El rey",
+    "significado": "En 1909 los viajeros ingleses Channing Arnold y Frederick Frost visitaron el sitio y encontraron una escultura antropomorfa de lo que se interpretó como un personaje noble y de donde derivó el nombre de “El Rey”.",
+    "relevanciaCultural": "El Rey es una de las zonas arqueológicas más importantes de la isla Cancún. Aunque se originó como un pequeño asentamiento en épocas tempranas, fue hasta el Posclásico tardío (1200 – 1550 d.C.) que llegó a su etapa de crecimiento más importante. De acuerdo con las investigaciones, se cree que El Rey, junto con el cercano San Miguelito, conformaba el área nuclear de un poblado dedicado al comercio marítimo y a las actividades pesqueras. Las intervenciones arqueológicas efectuadas en el sitio, han hecho posible que hoy día puedan visitarse muchas de las estructuras alineadas a lo largo de la calzada principal y sus dos pequeñas plazas. El edificio más importante es el número 2, que consta de un basamento piramidal con un templo, en el que se observan al menos dos etapas constructivas. También son de interés los edificios 1 y 4, que son palacios con grandes galerías con columnatas que sostenían techos planos; por sus dimensiones, parecen tratarse de construcciones de tipo administrativo, en los que se concertaban reuniones entre los grupos gobernantes. Anexo a estos edificios se hallan otros de menor importancia. Al momento de la conquista española, el sistema de asentamientos de la Costa Oriental quedó desarticulado, lo que ocasionó que la población de El Rey se dispersara o muriera en un lapso breve.",
+    "estado": "Quintana Roo",
+    "abierto": true,
+    "coordenadas": [21.05968431796229, -86.78159564418307],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3723.3313530777746!2d-86.781542!3d21.059424!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e828070bd07e7%3A0xc3275d66325db654!2sZona%20Arqueol%C3%B3gica%20de%20El%20Rey!5e0!3m2!1ses-419!2smx!4v1698993231093!5m2!1ses-419!2smx",
+    "foto": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/69/ab/f3/20160806-100028-largejpg.jpg?w=1200&h=-1&s=1"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Kohunlich",
+    "significado": "Se desconoce el nombre original del asentamiento. El nombre de Kohunlich proviene del inglés cohoon ridge (lomerío de corozos), que se refiere a la existencia de palmas de corozo, especie característica del área del Petén. En 1912, el sitio fue visitado por primera vez por el arqueólogo norteamericano Raymond Merwin, cuando el lugar era conocido con el nombre de Clarksville, en alusión al campamento maderero que se encontraba tres kilómetros al norte del área monumental de Kohunlich.",
+    "relevanciaCultural": "El asentamiento se localiza en área donde conviven un paisaje plano con drenaje subterráneo y un lomerío con cerros, pequeñas cañadas y aguadas. Se conforma por unidades habitacionales y complejos arquitectónicos cívicos y ceremoniales, rodeados de tierras fértiles para el cultivo, ubicadas en una extensión de 14 km2. La primera ocupación de Kohunlich se ubica en el Preclásico tardío (300 a.C. -250 d.C.), etapa en el fueron construidas plataformas de baja altura alrededor de la Plaza Ya’axná, edificaciones que en el Clásico Temprano fueron cubiertas por edificios monumentales. Durante este periodo, se erigió el Templo de los Mascarones, decorado con ocho figuras moldeadas en estuco con policromía, en colores rojo y negro, sobre armazones de mampostería, de los que sólo se conservan cinco. Su iconografía representa personajes reales, ataviados con atributos relacionados con el sol. Durante el Clásico tardío (600-900 d.C.), Kohunlich alcanzó su máximo poblacional, periodo en el que se construyeron la mayor parte de las estructuras que hoy pueden apreciarse, como la Plaza de las Estelas y el Conjunto de las Vías (complejos cívico- ceremoniales), el Conjunto Noroeste, las estructuras tardías del Conjunto Pixa’an y el Conjunto de Los 27 Escalones (ambos, complejos residenciales de elite).",
+    "estado": "Quintana Roo",
+    "abierto": true,
+    "coordenadas": [18.419446225427382, -88.79079171163384],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3785.419273214006!2d-88.79089900000001!3d18.419263!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f595ffee9ad8fc3%3A0x76f672e1d1fb8134!2sZona%20Arqueol%C3%B3gica%20de%20Kohunlich!5e0!3m2!1ses-419!2smx!4v1698993425075!5m2!1ses-419!2smx",
+    "foto": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/quintanaroo/KOHUNLICH-AEREA-6-2437ac945056a36_2437b03d-5056-a36a-080504658fd758da.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Muyil",
+    "significado": "Se desconoce el nombre original del sitio. Muyil es el nombre con que se conoce desde la época Colonial, a una de las lagunas adyacentes al sitio. También se le conoce como Chunyaxché.",
+    "relevanciaCultural": "Es un asentamiento que por su posición geográfica mantuvo una larga continuidad ocupacional. Las primeras evidencias materiales corresponden al Preclásico tardío (300 – 50 a.C.), cuando habría tenido vínculos con asentamientos del norte de Belice y sur de Quintana Roo, relación que se rompe hacia el Clásico tardío, cuando se fortalece su relación con el interior de la Península de Yucatán y tiene un importante crecimiento demográfico, que se relaciona a la construcción de algunos de los edificios que se conservan actualmente. Para el Clásico temprano (250 – 600 d.C.), Muyil era ya una importante ciudad en la que se construyeron importantes edificios de estilo Petén, como El Castillo y los tres basamentos del Grupo de la Entrada. Por su ubicación estratégica, hacia el Posclásico temprano (1000 – 1200 d.C.), mantuvo algunos contactos, con Chichén Itzá primero, y con Mayapán después. En el Postclásico tardío (1200 – 1450 d.C.), se construyeron la mayoría de los edificios conocidos, y cuando la ciudad cobró gran importancia al insertarse en las redes comerciales costeras de la Península.",
+    "estado": "Quintana Roo",
+    "abierto": true,
+    "coordenadas": [20.07898622791763, -87.61148545767324],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3747.3219325186856!2d-87.611464!3d20.078825!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4fd756a48e0d73%3A0xb17158eb54b159b8!2sZona%20Arqueol%C3%B3gica%20de%20Muyil!5e0!3m2!1ses-419!2smx!4v1698993682654!5m2!1ses-419!2smx",
+    "foto": "https://www.inah.gob.mx/images/zonas/quintanaroo/muyil/20220809_za_muyil_head.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Oxtankah",
+    "significado": "Se ignora nombre original de la ciudad. En 1937 el investigador Alberto Escalona Ramos lo denominó Oxtankah, topónimo que puede tener tres interpretaciones: “en medio de tres pueblos”, “tres barrios” o “lugar rodeado de ramones”. El ramón es un árbol (Brosium alicastrum) que florece en verano.",
+    "relevanciaCultural": "Es la ciudad prehispánica más grande e importante que se ha descubierto en la bahía de Chetumal. Los primeros grupos mayas asentaron su residencia en Oxtankah alrededor del año 600 a. C., permaneciendo ahí hasta 1100 d.C. En ese espacio temporal acontecieron tres momentos de alta densidad poblacional: Preclásico tardío (300-50 a.C.) Clásico temprano (250-600 d.C.) y Clásico tardío-terminal (600-900 d.C.). La máxima prosperidad de su sistema socio-político, se alcanzó durante el Clásico temprano, cuando los grupos dirigentes de Oxtankah fungieron como rectores de las poblaciones aledañas, reflejando su poder aún en la arquitectura. En esa época varios edificios fueron ampliados notoriamente duplicando sus proporciones originales; la extensión de la ciudad rebasó los límites de la costa incorporando a la isla Tamalcab. El área nuclear del asentamiento comprendía por lo menos diez plazas y dos patios hundidos delimitados por edificios, más de treinta estructuras aisladas y un cenote.",
+    "estado": "Quintana Roo",
+    "abierto": true,
+    "coordenadas": [18.60916402237463, -88.233237],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3781.224243329653!2d-88.233237!3d18.608981!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5ba61df6fd8841%3A0x526bf0e5d3075d7f!2sZona%20Arqueol%C3%B3gica%20Oxtankah!5e0!3m2!1ses-419!2smx!4v1698993837881!5m2!1ses-419!2smx",
+    "foto": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/quintanaroo/Oxtankah-2-2483b9b85056a36_2483bc1a-5056-a36a-08fc78dea62de47a.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Playa del Carmen",
+    "significado": "La zona arqueológica de Playa del Carmen recibe su nombre de la actual ciudad del mismo nombre. En la época prehispánica era un pequeño pueblo de pescadores llamado Xamanhá, que significa “Agua del norte”.",
+    "relevanciaCultural": "Playa del Carmen o Xamanhá fue uno de los primeros poblados vistos por los conquistadores españoles a principios del S. XVI. Tuvo una ubicación privilegiada frente a la isla de Cozumel y se cree que puede haber sido uno de sus puertos de embarque. Era un extenso asentamiento de construcciones de mampostería y plataformas para casas de madera y palma, cuyos habitantes estuvieron dedicados principalmente a actividades pesqueras y agrícolas; sus edificios están organizados en ocho grupos alineados en una franja ubicada entre las dunas costeras y la selva, a distancias de unos 300 metros uno del otro. Todos los edificios arqueológicos de Playa del Carmen corresponden al período Postclásico tardío (1200 – 1550 d.C.) y entre ellos se encuentran principalmente, templos para funciones rituales, residencias de mampostería y plataformas para casas de material perecedero. Las construcciones mejor conservadas son las ubicadas en los grupos B, C y D, destacando la Estructura C-1, que es la más grande del sitio y que conserva fragmentos de pintura mural que incluyen una de las fechas calendáricas más tardías conocidas en la región maya. El grupo C también incluye una muralla en forma de “U” que rodea al conjunto de estructuras principales.",
+    "estado": "Quintana Roo",
+    "abierto": false,
+    "coordenadas": [20.61472450235172, -87.08316127116339],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3734.349555710997!2d-87.083172!3d20.614604!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e436a97adbc75%3A0xfa4d199abbec14df!2sZona%20Arqueol%C3%B3gica%20de%20Playa%20del%20Carmen!5e0!3m2!1ses-419!2smx!4v1698993977346!5m2!1ses-419!2smx",
+    "foto": "https://www.turismotips.com/wp-content/uploads/2020/08/ruinas-arqueologicas-playa-del-carmen.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "San Gervasio",
+    "significado": "San Gervasio era un sitio dedicado a la diosa Ixchel («Ella Del arco iris ”), deidad de la partería, fertilidad, medicina y tejido. Todas las mujeres de los asentamientos Mayas en el continente hacían la peregrinación al santuario de Ixchel en algún momento de su vida.",
+    "relevanciaCultural": "A partir del año 1000, con el surgimiento de Chichén Itzá como gran centro político y económico de la península, el sitio se integró en una red económica cada vez más intensa, que habría de llevarlo a convertirse en la gran ciudad que fue a partir de 1200 d.C. Durante el Postclásico tardío (1200 – 1450 d.C.), se construyó la mayor parte de los edificios que hoy pueden verse, estableciéndose una red de comunidades menores, dependientes de San Gervasio y ubicadas en toda la extensión de la isla. Los cronistas españoles se refieren a los diversos asentamientos mayas que existían en Cozumel a su llegada, vinculándolos al culto a la diosa Ixchel, patrona de la medicina, los partos y el tejido. Sin embargo, estas referencias corresponden a un sitio actualmente destruido, que se ubicaba en el emplazamiento de la actual ciudad de San Miguel de Cozumel, donde se encontraba el oráculo dedicado a esta diosa. En San Gervasio no se ha encontrado ninguna evidencia arqueológica que le relacione con el culto a Ixchel.",
+    "estado": "Quintana Roo",
+    "abierto": true,
+    "coordenadas": [20.500157592749424, -86.84637708465354],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3737.1509585047947!2d-86.84642!3d20.500037!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e59d21f8c7449%3A0xe64feabe709d72a9!2sZona%20Arqueol%C3%B3gica%20San%20Gervasio!5e0!3m2!1ses-419!2smx!4v1698994410956!5m2!1ses-419!2smx",
+    "foto": "https://inah.gob.mx/images/zonas/quintanaroo/sangervasio/20220809_za_sangervasio_head.jpeg"
   }
+  
 ]
