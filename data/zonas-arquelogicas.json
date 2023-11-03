@@ -27,7 +27,7 @@
     "id": 1,
     "nombre": "Calica",
     "significado": "El nombre Calica (Calizas Industriales del Carmen) corresponde a las siglas de la empresa en cuyos terrenos se encuentra el sitio. Dentro de los terrenos de la empresa se localizan varios conjuntos, destacando el Grupo “P” de Xcaret, también conocido como “Rancho Ina” (“semilla” en maya), por un rancho que existió en el lugar o también como Punta Venado, por el nombre del paraje en donde se encuentra.",
-    "relevanciaCultural": "El 'Grupo P' es un conjunto monumental conformado por una plataforma con estructuras de diversas épocas, así como un basamento integrado por dos plataformas sobre las que se levantan otras estructuras y una pirámide de cinco cuerpos. El conjunto es un ejemplo representativo de arquitectura temprana en la región, que data del Preclásico tardío (300 - 50 a.C.) y Clásico temprano (250 – 600 d.C.), con una importante reutilización durante el Posclásico tardío (1200 – 1450 d.C.). Sobre una de las plataformas (“Gran Plataforma P”) se conserva un edificio estilo Costa Oriental, conocido como "Templo de las Columnas", que en su interior conserva un santuario conocido como “La Casa Azul”, que presenta hasta 26 capas de aplanados de estuco, incluyendo un espléndido mural en la fachada, del que se conserva poco más del 35%, por lo que es un sitio representativo de la pintura mural posclásica de la región, donde se plasmaron aspectos relevantes sobre la concepción del cosmos maya de esa época.",
+    "relevanciaCultural": "El 'Grupo P' es un conjunto monumental conformado por una plataforma con estructuras de diversas épocas, así como un basamento integrado por dos plataformas sobre las que se levantan otras estructuras y una pirámide de cinco cuerpos. El conjunto es un ejemplo representativo de arquitectura temprana en la región, que data del Preclásico tardío (300 - 50 a.C.) y Clásico temprano (250 – 600 d.C.), con una importante reutilización durante el Posclásico tardío (1200 – 1450 d.C.). Sobre una de las plataformas (“Gran Plataforma P”) se conserva un edificio estilo Costa Oriental, conocido como 'Templo de las Columnas', que en su interior conserva un santuario conocido como “La Casa Azul”, que presenta hasta 26 capas de aplanados de estuco, incluyendo un espléndido mural en la fachada, del que se conserva poco más del 35%, por lo que es un sitio representativo de la pintura mural posclásica de la región, donde se plasmaron aspectos relevantes sobre la concepción del cosmos maya de esa época.",
     "estado": "Quintana Roo",
     "abierto": false,
     "coordenadas": [20.59424587999317, -87.13414602304452],
@@ -189,6 +189,54 @@
     "coordenadas": [20.500157592749424, -86.84637708465354],
     "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3737.1509585047947!2d-86.84642!3d20.500037!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e59d21f8c7449%3A0xe64feabe709d72a9!2sZona%20Arqueol%C3%B3gica%20San%20Gervasio!5e0!3m2!1ses-419!2smx!4v1698994410956!5m2!1ses-419!2smx",
     "foto": "https://inah.gob.mx/images/zonas/quintanaroo/sangervasio/20220809_za_sangervasio_head.jpeg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "San Miguelito",
+    "significado": "Debe su nombre al antiguo rancho coprero que funcionó entre los años 1950-1970 en esta área. Antiguo sitio de ocho siglos, en donde los exploradores han encontrado su impresionante Palacio de Chaac, casi 50 entierros y una gran variedad de artefactos, tanto locales como foráneos (de obsidiana, cuarzo, cerámica, de coral y caracol), testimonio de su importancia comercial.",
+    "relevanciaCultural": "Se trata de un asentamiento que formó parte del antiguo cacicazgo de Ecab, que tuvo como principales actividades económicas, la pesca, la agricultura, la producción de sal, miel, copal y algodón, que se comercializaban en una compleja red que se desarticuló a mediados del siglo XVI con la llegada de los españoles a la Península de Yucatán. A la fecha se han explorado diversas estructuras dispuestas en cuatro conjuntos: Conjunto Norte, Palacio Chaak, Conjunto de los Dragones y Conjunto Sur; destaca por su tamaño e importancia, el Palacio Chaak,un gran edificio con amplios espacios interiores y un vestíbulo con columnas que sostenían un techo plano; se trata de un edificio de funciones públicas, pues es un recinto abierto, equipado con banquetas, dispuesto frente a un adoratorio.",
+    "estado": "Quintana Roo",
+    "abierto": true,
+    "coordenadas": [21.070943080256058, -86.77895793254925],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1861.522397894351!2d-86.778797!3d21.070873000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4c282c5d7e936b%3A0x22fed735129ef46f!2sZona%20Arqueol%C3%B3gica%20de%20San%20Miguelito!5e0!3m2!1ses-419!2smx!4v1698995686999!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/b/b0/San_Miguelito_La_pir%C3%A1mide.jpg"
+  },
+  
+  {
+    "id": 1,
+    "nombre": "Tulum",
+    "significado": "Fuentes del siglo XVI designan al sitio como “Zamá”, que en maya significa “mañana” o “amanecer”. El nombre de Tulum, es relativamente reciente, y se traduce como “muralla” o “palizada”, en alusión a la muralla que aquí se conserva.",
+    "relevanciaCultural": "Tulum es el sitio más emblemático de la costa de Quintana Roo, debido a su ubicación privilegiada y la excelente conservación de sus edificios y pinturas murales. Es bien conocida su muralla, que delimita al conjunto principal por sus lados norte, sur y oeste, ya que el sector oriental mira al mar Caribe; tiene cinco accesos y dos torres de vigilancia. El sitio está presidido por El Castillo, el basamento más alto de Tulum, que conserva un templo con tres accesos ornamentados con columnas serpentinas y dos mascarones zoomorfos en las esquinas. Frente al Castillo hay una plataforma para danzas y al suroeste se encuentra el Templo de la Serie Inicial, donde se encontró la fecha más temprana documentada en Tulum: 564 d.C.",
+    "estado": "Quintana Roo",
+    "abierto": true,
+    "coordenadas": [20.21509633598858, -87.42942398562138],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d238.661093419668!2d-87.42939496776846!3d20.21494933741962!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4fd17d16293265%3A0xff68d6fca492c963!2sTulum!5e0!3m2!1sen!2smx!4v1698996854996!5m2!1sen!2smx",
+    "foto": "https://imagenes.descubro.mx/uploads/2022/07/Zona-arqueologica-Tulum.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Xel Ha",
+    "significado": "Su nombre corresponde a una palabra maya compuesta por xel, pedazo, entrada, y há, agua; es decir, “entrada de agua”, en alusión a la geografía del lugar. La caleta de Xelhá es una de las más importantes de la costa de Quintana Roo desde tiempos prehispánicos debido a que es un área natural de abrigo.",
+    "relevanciaCultural": "Xelhá fue uno de los principales puertos comerciales del Postclásico tardío. Como parte del recorrido que actualmente puede efectuarse, pueden observarse magníficos ejemplos de pintura mural, en particular en el llamado “Edificio de los Pájaros”, elaborados entre los años 200 y 600 d.C. En el Grupo Jaguar puede también apreciarse un felino que da nombre al conjunto, el cual fuera realizado entre el Postclásico medio y el tardío (1200 – 1550 d.C.). La historia de Xelhá puede resumirse en dos grandes periodos. El primero se ubica en el Clásico temprano (250 – 600 de nuestra era), tiempo en el que este puerto era el más grande e importante de la zona; correspondiendo a su nivel, tenía hermosos palacios decorados con pinturas murales, que recuerdan la fuerte presencia que Teotihuacán tuvo en el área maya en aquellos tiempos. Se cree que Xelhá funcionó como puerto del gran reino de Cobá, ubicado tierra adentro, el cual fue una de las ciudades más poderosas de la península. A la llegada de los españoles, Xelhá quedó casi abandonado. Muchos de sus habitantes murieron a causa de las nuevas enfermedades traídas por los europeos y otros huyeron del dominio español. Para 1550, el sitio estaba en ruinas.",
+    "estado": "Quintana Roo",
+    "abierto": true,
+    "coordenadas": [20.32025166684486, -87.36545333993661],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3741.4943321873848!2d-87.3665154947616!3d20.32118735004944!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e36d503099181%3A0xb4e40143edef2698!2sZona%20Arqueol%C3%B3gica%20Xelh%C3%A1!5e0!3m2!1ses-419!2smx!4v1698997111624!5m2!1ses-419!2smx",
+    "foto": "https://www.mexicoescultura.com/galerias/espacios/principal/xelha.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Xcaret",
+    "significado": "El origen y significado del nombre Xcaret es desconocido, pero en tiempos prehispánicos y coloniales su nombre era P’olé, derivado de la raíz p’ol, que implica mercadería, trato y contrato con comerciantes. P´olé fue un puerto comercial importante y lugar de salida y arribo de peregrinaciones hacia Cozumel.",
+    "relevanciaCultural": "Hay evidencia de asentamientos humanos en los primeros tres siglos de nuestra era, pero solo se reduce a restos cerámicos y algunas plataformas bajas. Para entonces, a lo largo de la costa había aldeas pequeñas de pescadores y agricultores. Un aumento en la población, parece darse entre 600 y 900 d. C., alcanzando su máximo desarrollo durante en los cinco siglos posteriores como la mayoría de los sitios de la costa oriental. La arquitectura de las grandes plataformas de esquinas redondeadas y la presencia de tradiciones cerámicas del norte de la península permiten inferir un desarrollo cultural muy propio de la costa. A su vez, la presencia de cerámica policroma y objetos de jade, obsidiana, cristal de roca, etc., que no son encontrados regionalmente, habla de un estrecho vínculo comercial tanto con sitios contemporáneos del área maya central, como con las tierras altas de Guatemala. Si bien durante el Clásico no era un sitio espectacular, sí muestra una organización política, económica y social bien desarrollada.",
+    "estado": "Quintana Roo",
+    "abierto": true,
+    "coordenadas": [20.584895352255792, -87.119445],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d119527.0097634955!2d-87.119445!3d20.57911!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e446da449b2d1%3A0x7e30a6dad57b4dde!2sZona%20Arqueol%C3%B3gica%20de%20Xcaret%20(dentro%20del%20parque%20ecotur%C3%ADstico%20XCARET)!5e0!3m2!1ses-419!2smx!4v1698997240540!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/0/00/Xcaret_Mayan_Ruins.jpg"
   }
   
 ]
