@@ -361,6 +361,102 @@
 
   {
     "id": 1,
+    "nombre": "Acanceh",
+    "significado": "El toponímico Acanceh (pronúnciese 'akankej') significa en idioma maya 'quejido de venado' por provenir de los vocablos Áakam, 'quejido' y kéej, 'venado' (Odocoileus virginianus yucatanensis).",
+    "relevanciaCultural": "Durante el periodo Preclásico Medio y Tardío (700 a. C. - 250 d. C.), Acanceh constituyó uno de los principales centros del norte de la Península de Yucatán y mantuvo importantes relaciones con otros sitios como Dzibilchaltún, Oxkintok y Mayapán. Su ocupación se extendió durante todo el periodo Clásico (250-1000 d. C.) y su declinación corresponde al Posclásico. A partir de las investigaciones arqueológicas se ha calculado que el asentamiento prehispánico tiene una superficie aproximada de 3 km2. De las 300 estructuras registradas en el sitio resaltan dos de tipo monumental: La Pirámide y el Palacio de los Estucos. La Pirámide es una subestructura que originalmente estuvo decorada con mascarones modelados en estuco y ubicados en ambos lados de las cuatro escalinatas; ocho mascarones en total.",
+    "estado": "Yucatan",
+    "abierto": true,
+    "coordenadas": [20.813642430331967, -89.45161984655259],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3729.450875904641!2d-89.452049!3d20.813492!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5663dc2ee8adb9%3A0x3308aef480be925!2sZona%20Arqueol%C3%B3gica%20de%20Acanceh!5e0!3m2!1ses-419!2smx!4v1699004464931!5m2!1ses-419!2smx",
+    "foto": "https://yucatan.travel/wp-content/uploads/2021/05/Acanceh-Yucatan.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Aké",
+    "significado": "Ak significa “Bejuco”.",
+    "relevanciaCultural": "La ocupación de Aké se inició desde el Preclásico Tardío (300 a. C.-300 d. C.) y continuó hasta el Posclásico (1300-1450 d. C.). Aké alcanzó un alto nivel urbano desde época muy temprana y sostuvo relaciones con sitios como Izamal, al cual se unió mediante un sacbé de 32 km de largo y su influencia llegó hasta la región Río Bec en Campeche y Cobá en Quintana Roo. Aké consta de dos sectores delimitados por sendas murallas concéntricas. La interior limita el área ceremonial, mientras que la exterior circunscribe la zona habitacional del sitio. En la parte central del sitio se encuentra la Estructura 1 o De Las Pilastras, denominada así porque en la parte superior tiene una gran sala hipóstila que seguramente sostuvo una de las techumbres más grandes de su tiempo.",
+    "estado": "Yucatan",
+    "abierto": true,
+    "coordenadas": [20.947919631444208, -89.29917455819074],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7452.244808769507!2d-89.299711!3d20.947599!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5685b4ecadac73%3A0x50a7700d3f0fb60e!2sZona%20Arqueol%C3%B3gica%20de%20Ak%C3%A9%20Yucat%C3%A1n!5e0!3m2!1ses!2smx!4v1699004628240!5m2!1ses!2smx",
+    "foto": "https://www.poresto.net/u/fotografias/m/2021/9/19/f1280x720-130170_261845_5050.jpeg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Balam Canché",
+    "significado": "Balamcanché quiere decir “El trono del Jaguar”.    ",
+    "relevanciaCultural": "Localizada a 6 km., de Chichén Itzá, es una caverna que fungió como centro ceremonial de los antiguos pobladores mayas. Se puede admirar estalactitas y otras formaciones de roca, pero el espacio más importante es una sala que se localiza a 200 metros de la entrada y donde se localiza una estructura llamada el Trono de Balam. Al centro de esta misma sala de 7 metros de altura, se alza un gran pilar formado por la fusión de una estalactita con una estalagmita semejando una gran ceiba, llamada 'La Ceiba Sagrada'. En el lugar fueron encontrados objetos ceremoniales elaborados en materiales como cerámica, lítica y concha, entre otros. Entre los antiguos habitantes de Mesoamérica, las cuevas eran consideradas entradas al inframundo y entre los mayas la ceiba era el árbol sagrado, asimilado como un axis mundi que une el cielo, la tierra y el inframundo. Ubicación cronológica principal: Posclásico Temprano, 900 a 1200 d. C.",
+    "estado": "Yucatan",
+    "abierto": false,
+    "coordenadas": [20.657942468125913, -88.5337686931052],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3733.2889060495913!2d-88.534627!3d20.657822!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f513ee02d2d35a5%3A0xe9b6a8d2ff6bd554!2sGrutas%20de%20Balancanch%C3%A9!5e0!3m2!1ses-419!2smx!4v1699004756331!5m2!1ses-419!2smx",
+    "foto": "https://www.mexicoescultura.com/galerias/espacios/principal/dsc02314.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Chacmultún",
+    "significado": "Chacmultún voz maya que significa 'cerro de piedra roja'.",
+    "relevanciaCultural": "Chacmultún es una palabra del Maya yucateco que significa “Montículos de Piedra Roja”, en alusión al tono rosado de la cantera utilizada en las fachadas de los edificios. El sitio se localiza en la Región Puuc, cuya arquitectura se caracteriza por el excelente trabajo en los sillares que forman las fachadas, los juegos de claroscuros de las mismas y el uso de mosaico de piedra para su decoración. Los primeros asentamientos relacionados con este sitio en el Preclásico, eran aldeas pequeñas que dependían de las corrientes estacionales y los depósitos de agua que de manera natural se formaban en los alrededores. Posteriormente, se iniciaron una serie de obras hidráulicas que permitieron una actividad agrícola intensiva, crecimiento demográfico y en consecuencia una mayor complejidad social. Hacia el Posclásico, Chacmultún se convierte en la ciudad más importante al oriente de la región pues en ella se concentraban gran cantidad de bienes de otras partes del Puuc. Cronología: 300 a. C. a 1500 d. C. Ubicación cronológica principal: Clásico Tardío, 800 a 1000 d. C.",
+    "estado": "Yucatan",
+    "abierto": true,
+    "coordenadas": [20.17273691914498, -89.34515072883617],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3745.07491647844!2d-89.34514!3d20.172606!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5706431297a733%3A0x52b3479faffb3363!2sZona%20Arqueol%C3%B3gica%20Chacmult%C3%BAn!5e0!3m2!1ses-419!2smx!4v1699004943332!5m2!1ses-419!2smx",
+    "foto": "https://escapadas.mexicodesconocido.com.mx/wp-content/uploads/2023/09/Snapinsta.app_94293422_258321095321503_1311318784409252694_n_1080-1-scaled.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Chichén Itzá",
+    "significado": "Etimológicamente, Chi-ch’en Itzá significa “la ciudad al borde del pozo de los Itzáes”.",
+    "relevanciaCultural": "Chichén Itzá es el mejor ejemplo de los movimientos migratorios que se dieron en Mesoamérica hacia el Posclásico Temprano, ya que reúne rasgos de cultura material tanto del área Maya como del centro de México, particularmente de filiación Tolteca. Además Chichén Itzá fue capital de un amplio territorio en la península de Yucatán, encabezado por la liga de Mayapán, del 987 hasta el año 1200 d. C. La zona arqueológica Chichén Itzá es famosa mundialmente por el juego de luz y sombra que en cada equinoccio ocurre sobre la escalinata del basamento piramidal conocido como El castillo. En este, el sol, conforme asciende sobre el horizonte, va iluminando la alfarda poniente del basamento, creando triángulos de luz y sombra que parecen descender hasta la cabeza de serpiente en el desplante de la alfarda. Este evento, logrado a partir de la correcta orientación e inclinación de los planos del basamento, manifiesta el gran nivel de conocimiento astronómico y arquitectónico que los Mayas poseían, y que ha dado lugar a ser una de las culturas y regiones más estudiadas en torno a estos temas, además de la organización político territorial y la explotación de recursos. Cronología 525 a 1200 d. C. Ubicación cronológica principal: Posclásico Temprano 900 a 1200 d. C.",
+    "estado": "Yucatan",
+    "abierto": true,
+    "coordenadas": [20.67972553420988, -88.56531199332542],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3732.7737439611788!2d-88.568477!3d20.678782!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f513937c570f3e3%3A0xca8d6d39eb5e4ce2!2sChichen%20Itza!5e0!3m2!1ses-419!2smx!4v1699005221037!5m2!1ses-419!2smx",
+    "foto": "https://www.mexicodesconocido.com.mx/wp-content/uploads/2010/05/chichen-itza-arquitectura-que-visitar.png"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Dzibilchaltún",
+    "significado": "La palabra Dzibilchaltún está formada por cuatro vocablos mayas: Dzib, escritura; il, locativo; chal, plano; y tun, piedra; lo que puede traducirse como “lugar donde hay escritura en las piedras planas”.",
+    "relevanciaCultural": "Dzibilchaltún es un asentamiento que tiene una larga secuencia ocupacional desde el Preclásico Tardío hasta el Posclásico Tardío, por esta razón llegó a ser uno de los asentamientos más grandes de la costa norte de la península de Yucatán. La distribución de los espacios arquitectónicos es de tipo concéntrico y alcanzó a cubrir un área de 16 km cuadrados.",
+    "estado": "Yucatan",
+    "abierto": true,
+    "coordenadas": [21.09259922025432, -89.5959917962934],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3722.506119733213!2d-89.596142!3d21.092379!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5676284437fd13%3A0xdc46bbba34d359ca!2sZona%20Arqueol%C3%B3gica%20de%20Dzibilchalt%C3%BAn!5e0!3m2!1ses-419!2smx!4v1699005336607!5m2!1ses-419!2smx",
+    "foto": "https://www.poresto.net/u/fotografias/m/2020/12/24/f1280x720-39792_171467_5050.jpeg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Ek Balam",
+    "significado": "Ek Balam es un nombre en lengua maya yucateca, formado por los vocablos ek’, con el que se denomina al color negro y que también significa “lucero” o “estrella”; y balam, que quiere decir “jaguar”. Puede traducirse entonces como “jaguar-oscuro-o negro”. Sin embargo, algunos hablantes de maya en la región también lo traducen como “lucero-jaguar”. En la Relación de Ek’ Balam, escrita en 1579 por el encomendero Juan Gutiérrez Picón se menciona que el nombre del sitio proviene de un gran señor que se llamaba Ek Balam o Coch Cal Balam, quien lo fundó y gobernó durante 40 años. Sin embargo, la evidencia arqueológica no nos ha proporcionado alguna prueba de la existencia de dicho personaje. Mientras que en el glifo emblema hallado en unos monumentos de piedra llamados Las Serpientes Jeroglíficas, se menciona tal como el nombre del sitio en el Clásico.",
+    "relevanciaCultural": "Ek´Balam (Estrella Jaguar) es una ciudad maya que tuvo su máximo desarrollo durante el Clásico Tardío/Terminal (600-850/900 d. C.) y que posiblemente fue sede del reino de "Tlalol". El primer rey conocido de Ek´Balam es Ukit Kan Le´t Tok (el padre de las cuatro frentes de pedernal) quien fue el constructor de la mayor parte del suntuoso palacio que actualmente conocemos como Acrópolis y de muchas obras más. Así mismo, fue impulsor de los avances técnicos y culturales, al igual que de la riqueza arquitectónica y decorativa, cuyo mejor ejemplo es la Estructura 35 Sub, localizada en el interior de la Acrópolis y conocida como Sak Xok Nahh (casa blanca de la lectura), que sirvió como tumba para Ukit Kan Le´t Tok, quien fue sepultado con una rica ofrenda conformada por más de 7,000 piezas como vasijas de cerámica, objetos de concha, caracol y tumbaga.",
+    "estado": "Yucatan",
+    "abierto": true,
+    "coordenadas": [20.892354140634733, -88.13594472883618],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3727.49752238044!2d-88.135934!3d20.892294!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f519d2cfd290dcf%3A0x2c8918d639ce5df9!2sZona%20Arqueol%C3%B3gica%20de%20Ek%20Balam!5e0!3m2!1ses-419!2smx!4v1699005572793!5m2!1ses-419!2smx",
+    "foto": "https://www.maravillasdeyucatan.com/wp-content/uploads/2022/10/Zona-Arqueologica-de-Ek-Balam.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Izamal",
+    "significado": "Izama significa “rocío que cae del cielo”, en honor al gran sacerdote maya Zama, fundador de la ciudad, creador supremo de todas las cosas.",
+    "relevanciaCultural": "El núcleo cívico ceremonial de Izamal es uno de los más voluminosos de las tierras bajas del área maya, ya que sus edificios sobrepasan en conjunto el millón de metros cúbicos, Izamal tiene una larga secuencia de desarrollo, con más de dos mil quinientos años de ocupación. Los momentos de mayor actividad parecen corresponder al final del Protoclásico (150 d. C. – 250 d. C.) y el Clásico Temprano (250-600 d. C.), que coinciden con la construcción de los edificios de mayor relevancia y de la extensa red de sacbes o caminos que reflejan la importancia política y económica que había alcanzado Izamal, como rector de una importante región del Norte de la Península de Yucatán. La catalogación de esculturas y numerosas piedras que formaron parte de la decoración de los antiguos edificios ha señalado la fuerte presencia del estilo Puuc. Su cronología principal es Protoclásico (150 a. C.-250 d. C.) / Clásico Temprano (250-600 d. C.) al Clásico Tardío (600-800 d. C.). El fin del apogeo de la ciudad se inicia durante el Postclásico Temprano (1000-1200 d. C.), situación en la que seguramente influyó la creciente importancia de los itzáes asentados en Chichén Itzá. Fue denominada la primera ciudad mágica de México y también se le conoce como la ciudad de las Tres Culturas.",
+    "estado": "Yucatan",
+    "abierto": true,
+    "coordenadas": [20.92955835824322, -89.01734549258443],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14906.345237651965!2d-89.0176459!3d20.9289571!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f56a49e1d8201d5%3A0x6d2a61ad1846581c!2sZona%20Arqueol%C3%B3gica%20%22Habuk%22!5e0!3m2!1ses!2smx!4v1699005977967!5m2!1ses!2smx",
+    "foto": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/6f/9b/66/ruinas-mayas-de-izamal.jpg?w=1200&h=1200&s=1"
+  },
+
+  {
+    "id": 1,
     "nombre": "",
     "significado": "",
     "relevanciaCultural": "",
