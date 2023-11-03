@@ -237,6 +237,138 @@
     "coordenadas": [20.584895352255792, -87.119445],
     "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d119527.0097634955!2d-87.119445!3d20.57911!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e446da449b2d1%3A0x7e30a6dad57b4dde!2sZona%20Arqueol%C3%B3gica%20de%20Xcaret%20(dentro%20del%20parque%20ecotur%C3%ADstico%20XCARET)!5e0!3m2!1ses-419!2smx!4v1698997240540!5m2!1ses-419!2smx",
     "foto": "https://upload.wikimedia.org/wikipedia/commons/0/00/Xcaret_Mayan_Ruins.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Castillo de Teayo",
+    "significado": "En Los Lienzos de Tuxpan está representado el glifo de Teayotlán. Etimológicamente proviene del huasteco teayo, teayoc, que significa “en la tortuga de piedra”.",
+    "relevanciaCultural": "Es uno de los sitios más importantes de la Costa del Golfo debido a la pluralidad cultural que se refleja en sus restos materiales. Recibe su nombre por la presencia de una estructura o basamento piramidal formado por tres cuerpos que rematan en una plataforma superior sobre la que se construyó un templo. Aunque al parecer el origen de este basamento se da en el Preclásico Temprano, su estilo arquitectónico recuerda tradiciones culturales Huastecas y Mexicas. Por otro lado, la escultura tiene fuertes influencias Mayas y Toltecas. Cronología: 900 a 1521 d. C. Ubicación cronológica principal: Posclásico Tardío, 1200 a 1521 d. C.",
+    "estado": "Veracruz",
+    "abierto": true,
+    "coordenadas": [20.767988908317523, -97.6387201639926],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d955140.9459762368!2d-97.633227!3d20.750011!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85da0569e05b3d37%3A0xbb694a286c0cd5a6!2sCastillo%20de%20Teayo!5e0!3m2!1sen!2smx!4v1699000488981!5m2!1sen!2smx",
+    "foto": "https://turismoafondo.mx/wp-content/uploads/2023/01/Castillo-de-Teayo.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Cempoala",
+    "significado": "La palabra Cempoala (Zempoala) deriva del náhuatl y tiene dos significados, el primero es “abundancia de agua” y el segundo “lugar de veinte o veintena”, aludiendo probablemente a los 20 poblados que integraban al sitio o a sus actividades comerciales, realizadas cada 20 días. Debido a su extensión y sus numerosos edificios, el sitio llamó poderosamente la atención a los primeros españoles, quienes lo nombraron “Sevilla” o “Villaviciosa”.",
+    "relevanciaCultural": "Cempoala es una de las ciudades más importantes de la Costa del Golfo. Aunque hay evidencias del estilo Olmeca en el asentamiento, fue hacia el periodo Posclásico, capital de los Totonacas, dominando una gran parte del territorio de Veracruz y el norte del Estado de Puebla, en donde convivían Totonacas, Chinantecas y Zapotecas; reuniendo alrededor de 50 pueblos. En su época más importante Cempoala llegó tener 25 o 30 mil habitantes. Una de sus características más sobresalientes es un conjunto de anillos escalonados que de acuerdo con algunos investigadores era una herramienta construida con la finalidad de computar el tiempo. Ubicación cronológica principal: Posclásico, 900 a 1521 d. C.",
+    "estado": "Veracruz",
+    "abierto": true,
+    "coordenadas": [19.44736328408678, -96.40400235582038],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3762.192813206711!2d-96.404056!3d19.447252!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c35556e1d7359f%3A0x915f49478b20166d!2sCempoala%20Archaeological%20Zone!5e0!3m2!1sen!2smx!4v1699000645907!5m2!1sen!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Zempoala-06.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Cuajilote",
+    "significado": "“Cuajilote” es el nombre de un árbol que hay en abundancia en la región Totonaca el cual se conoce como chote.",
+    "relevanciaCultural": "Este sitio Totonaca es uno de los por lo menos, seis sitios arqueológicos que se localizan en la zona conocida como Filobobos, en la porción central de la cuenca del Río Nautla. Debido a la topografía, las corrientes de agua han modelado un relieve de pequeños valles con suelos profundos y fértiles, lo que por otro lado favoreció el establecimiento de una ruta de comunicación entre el centro de México y la Costa del Golfo. Cuajilote se localiza en el entorno de la actual ciudad de Tlapacoyan, que hacia el Posclásico Tardío era un altepetl tributario de la triple alianza, receptora de grandes cantidades de productos entre los que destacan las plumas de ave. Muy probablemente toda la zona haya jugado un papel similar en épocas anteriores, insertándose en las rutas comerciales dominadas a lo largo del tiempo por Teotihuacanos y Toltecas. Cronología: 2000 a. C. a 800 d. C. Ubicación cronológica principal: Clásico, 200 a 800 d. C.",
+    "estado": "Veracruz",
+    "abierto": true,
+    "coordenadas": [19.948910106122817, -97.13139198328928],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d240039.51705589407!2d-97.27627418359376!3d19.940519100000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85dae3acd459c29f%3A0xadd5d740d8ee2668!2sZona%20Arqueologica%20el%20Cuajilote!5e0!3m2!1ses!2smx!4v1699000800181!5m2!1ses!2smx",
+    "foto": "https://www.mexicoescultura.com/galerias/espacios/principal/veracruz_cuajilote_900.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Cuyuxquihui",
+    "significado": "El nombre de Cuyuxquihui proviene de la lengua totonaca cuyu “armadillo”, y quihui “palo, madera o árbol”; el compuesto significa entonces “árbol de armadillo”, en alusión a un árbol que florece en las montañas inmediatas y cuya corteza es similar al caparazón de dicho animal.",
+    "relevanciaCultural": "Esta zona arqueológica forma parte de un conjunto de sitios que se fundan después del abandono de la ciudad de El Tajín. Los movimientos poblacionales provocan abandonos y fundaciones nuevas debido a la pérdida de un núcleo rector en la región. En el caso de Cuyuxquihui se han identificado estructuras arquitectónicas similares a fortificaciones, por lo que se interpreta que estos movimientos fueron acompañados de conflictos bélicos entre grupos. Cuyuxquihui mantuvo una posición importante en la región hasta que fue conquistado por los Mexicas al mando de Moctezuma Ilhuicamina en 1465. Cronología: 1200 a 1519 d. C. Ubicación cronológica principal: Posclásico Tardío, 1200 a 1519 d. C.",
+    "estado": "Veracruz",
+    "abierto": false,
+    "coordenadas": [20.30999055629163, -97.25594544907428],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1870.883611773529!2d-97.255983!3d20.3099!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85da509ae97e661f%3A0x872b68afe88c9272!2sZ.A.%20de%20Cuyuxquihui!5e0!3m2!1sen!2smx!4v1699000975646!5m2!1sen!2smx",
+    "foto": "https://turismoafondo.mx/wp-content/uploads/2021/12/piramide-1.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "El tajín",
+    "significado": "A la palabra 'Tajín' se le han dado varios significados, en totonaca quiere decir 'el gran humo', 'el trueno' (que se manifiesta en tres formas, una de ellas es síkulan, o Tajín, que se cree es la descarga que fulmina a los árboles, que mata a los hombres y que antecede al relámpago, al gran fulgor. Actualmente se le conoce como kawi’aksahila s'chik taji’n: 'la casa de los truenos'. Otros opinan que la pronunciación de la palabra se ha transformado, ya que originalmente era ta’jin, de la raíz ta’, que significa 'estar construido'; jín, que significa 'humea constantemente', libremente se traduce como 'lugar de un conjunto de templos de donde sale humo constantemente, debido a que ahí se quemaba constantemente copal.",
+    "relevanciaCultural": "El Tajín es la ciudad prehispánica Mesoamericana más importante de la costa norte de Veracruz. Su influencia abarca las cuencas de los Ríos Cazones y Tecolutla desde la Sierra Norte de Puebla, donde su influencia se aprecia claramente en la zona arqueológica de Yohualichan, hasta la planicie costera del Golfo de México. Desde el punto de vista urbanístico en El Tajín, se privilegiaron los grandes espacios abiertos delimitados por templos y desniveles. Además de las decoraciones con nichos, relieves y pintura mural. Uno de las construcciones más interesantes es la llamada Pirámide de los Nichos, llamada así por que los tableros que componen sus fachadas fueron decorados con nichos que hacen un total de 365, razón por la cual ha recibido atención de los estudiosos en calendarios y cosmovisión Mesoamericanos. El Tajín es la ciudad con mayor número de juegos de pelota: 17, lo que ha sido interpretado como una necesidad ante la diversidad cultural que, de acuerdo con la época, pudo habitar la ciudad. Cronología: 300 a 1200 d. C. Ubicación cronológica principal: Epiclásico, 600 a 900 d. C.",
+    "estado": "Veracruz",
+    "abierto": true,
+    "coordenadas": [20.44282474411648, -97.377908],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3738.547747630894!2d-97.377908!3d20.442684!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85da4413c28f0d69%3A0x82b4475e29ba8dd7!2sMuseo%20de%20sitio%20Zona%20Arqueol%C3%B3gica%20El%20Taj%C3%ADn!5e0!3m2!1ses-419!2smx!4v1699001264815!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ruins_of_El_Taj%C3%ADn_30.jpg/1200px-Ruins_of_El_Taj%C3%ADn_30.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Las higueras",
+    "significado": "De acuerdo con Ramírez Lavoignet, Las Higueras se sitúa donde estuvo el pueblo de Yetla-Acalco (Yetla-aca-cal-co es voz nahua que significa “en las galeras del tabacal”), que desapareció en el siglo XVI. Al ceder la Real Audiencia los terrenos, para criar ganado mayor, los primeros vecinos lo llamaron “Naciente Vega del Cazadero” y más tarde “La Vega”.",
+    "relevanciaCultural": "Este sitio es un importante ejemplo de la Cultura Totonaca, aunque sus evidencias más tempranas ubican el asentamiento hacia el Preclásico Temprano, cuando era tan sólo un asentamiento disperso que posteriormente compartió los rasgos estilísticos Olmecas. A partir del Clásico Tardío los elementos Totonacos son muy claros, aunque los rasgos arquitectónicos Teotihuacanos son dominantes, pero en el aspecto pictórico los murales Totonacos destacan por su variedad, que permite reconstruir una larga secuencia de ocupación. El Totonacapan, como se le conoce a esta región estaba dividido en pequeños señoríos con relaciones comerciales y alianzas políticas y de parentesco. Cronología: 1500 a. C. a 900 d. C. Ubicación cronológica principal: Clásico Tardío, 600 a 900 d. C.",
+    "estado": "Veracruz",
+    "abierto": true,
+    "coordenadas": [20.03461351231218, -96.62312416802611],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3748.3823377922376!2d-96.623843!3d20.034422!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db71cb8816e75b%3A0x45863fbc757f17d8!2sZona%20Arqueol%C3%B3gica%20Las%20Higueras!5e0!3m2!1sen!2smx!4v1699001693248!5m2!1sen!2smx",
+    "foto": "https://live.staticflickr.com/4130/5042375639_64ee86a5d0_b.jpg"
+  },
+  
+  {
+    "id": 1,
+    "nombre": "Quiahuiztlán",
+    "significado": "El nombre del sitio es de origen náhuatl y significa “El lugar de la lluvia”.",
+    "relevanciaCultural": "Este asentamiento de la planicie costera de Veracruz data del periodo Epiclásico, cuando los asentamientos Totonacas del periodo anterior pierden fuerza como efecto del debilitamiento de Teotihuacán. A consecuencia de esto los habitantes de los antiguos asentamientos se reúnen en pueblos pequeños con extensiones moderadas de territorio. Quiahuiztlán sufrió dos invasiones en el Posclásico, primero la de los Toltecas y posteriormente de los Mexicas, de quienes permanecen sujetos hasta el momento del contacto español. Quiahuiztlán, asentamiento muy cercano al punto en que Hernán Cortés funda la Villa Rica de la Veracruz, fue el lugar en que se concertó una alianza entre los pueblos Totonacas y los españoles para conquistar el imperio Tenochca. Cronología: 800 d. C. a época colonial. Ubicación cronológica principal: Posclásico, 900 a 1521 d. C.",
+    "estado": "Veracruz",
+    "abierto": true,
+    "coordenadas": [19.66998882222776, -96.41471728706387],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3757.0022828070864!2d-96.415243!3d19.669908!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db587323abfe93%3A0xbeef0e9f35babff!2sQuiahuiztlan!5e0!3m2!1sen!2smx!4v1699001842896!5m2!1sen!2smx",
+    "foto": "https://lugares.inah.gob.mx/images/zonas/media/1876/_thumb1/Quiahuiztlan_Foto_Mauricio_Marat_INAH.jpg"
+  },
+  
+  {
+    "id": 1,
+    "nombre": "San Lorenzo Tenochtitlan",
+    "significado": "No cuenta con un significado como tal pero es la cuna de la civilización olmeca",
+    "relevanciaCultural": "San Lorenzo Tenochtitlán fue una capital olmeca que dominó un punto estratégico, lo que le permitió controlar la comunicación y el transporte terrestre y acuático; así mismo se extendió sobre una gran “isla” tropical, delimitada por ríos navegables y grandes llanuras de inundación en la cuenca baja del río Coatzacoalcos. La ocupación más antigua abarca dos fases: 1) fase Ojochi y 2) fase Bajío que van de 1500 a 1200 a. C. Entre 1200 y 850 a. C., se disparó el crecimiento poblacional y se intensificaron las actividades productivas y de subsistencia, con un progresivo interés en el cultivo del maíz. Una de las más notables actividades constructivas fue la modificación del terreno donde se encuentra San Lorenzo; mediante millones de metros cúbicos de rellenos sedimentarios se le dio una nueva forma al sitio y se crearon distintos niveles de terrazas habitacionales alrededor de la cima de la loma. También comenzaron a tallarse esculturas en piedra volcánica cuya fuente se encuentra en la cercana Sierra de los Tuxtlas, realizaron tronos y cabezas colosales entre otras. San Lorenzo llegó a albergar a 13 000 personas antes de 900 a. C., junto con quienes vivían en las comunidades dependientes. Entre 900 y 850 a. C. comenzó el abandono del sitio y de la región circundante, es probable que factores como conflictos, enfermedades y cambios ambientales hayan contribuido a este proceso; entre 850 y 600 a. C., en la fase llamada Nacastre, había alrededor de 500 personas en la región cercana. Cabe señalar que desde el año 900 a. C., había un creciente reciclaje de esculturas, lo cual es una manifestación de los problemas que afectaron a la sociedad de San Lorenzo.",
+    "estado": "Veracruz",
+    "abierto": true,
+    "coordenadas": [17.750514616867868, -94.76127298281018],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3799.8778876335805!2d-94.761391!3d17.750392!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ea17503f21f585%3A0x5fd10435c937a2b4!2sZona%20Arqueol%C3%B3gica%20San%20Lorenzo%20Tenochtitlan!5e0!3m2!1sen!2smx!4v1699001967449!5m2!1sen!2smx",
+    "foto": "https://www.mexicodesconocido.com.mx/sites/default/files/nodes/1221/san-lorenzo-tenochtitlan-veracruz.jpg"
+  },
+  
+  {
+    "id": 1,
+    "nombre": "Tres Zapotes",
+    "significado": "Este nombre se lo asignaron los arqueólogos por el árbol nativo del sur de México, Tres Zapotes. Fue cerca de Tres Zapotes que José Melgar descubrió la primera cabeza colosal en 1862.",
+    "relevanciaCultural": "Se ha considerado a la llamada Cultura Olmeca como antecedente de las sociedades prehispánicas que estructuraron “asentamientos urbanos desarrollados”. Dicha cultura se distribuyó principalmente en el Golfo de México, aunque se desconoce la exactitud de sus límites hacia el sur y sureste, y tuvo su apogeo aproximadamente entre 1300 y 600 a. C. El asentamiento prehispánico de Tres Zapotes se extiende por más de 3 kilómetros a lo largo del Arroyo Hueyapan y es conocido principalmente por la apreciable cantidad de esculturas de estilo Olmeca e Izapa encontradas en él. La mayoría de los edificios se localizan en la orilla oeste del arroyo, sobre el llano aluvial y una terraza natural de depósitos sedimentarios y volcánicos. A partir del recorrido se han detectado más que 150 montículos, terrazas artificiales, y rasgos naturales modificados. El sitio está formado por tres grupos mayores de montículos, ubicados alrededor de plazas irregulares, sobre un área de aproximadamente 2 km2, y varios grupos de montículos bajos que aún no han sido determinados y que parecen ser plataformas residenciales, entre ellos los Grupos Ranchito y Montículos Quemados.",
+    "estado": "Veracruz",
+    "abierto": false,
+    "coordenadas": [18.465621999730683, -95.43985588096211],
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3784.4018322309867!2d-95.440049!3d18.465449!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c2424a98daeff5%3A0x628d7de2d4eb594d!2sTres%20Zapotes!5e0!3m2!1sen!2smx!4v1699002667571!5m2!1sen!2smx",
+    "foto": "https://turismo-veracruz.com/portal/cont_imgs/desp/Zona_arqueologica_Tres_Zapotes.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Vega de la Peña",
+    "significado": "El pueblo de Tlapacoyan es de origen totonaca prehispánico, en su área existió una gran ciudad totonaca hoy conocida como Vega de la Peña.",
+    "relevanciaCultural": "Este sitio, al igual que Cuajilote, debe entenderse en el contexto de la Subcuenca del Río Bobos, en la porción central de Veracruz. Esta región fue receptora y redistribuidora comercial, aprovechando la red de comunicaciones demarcada por la fisiografía. Posteriormente, esta red fue ampliamente aprovechada por los Mexicas en su expansión hacia el Golfo, convirtiendo a los asentamientos del valle en tributarios de la triple alianza. El grupo social que se desarrolló en esta zona muestra rasgos multiculturales: Mayas, Olmecas, Huastecos, Totonacos y Toltecas; a través de los análisis de materiales se han identificado vínculos antiguos con Oaxaca y el Área Maya; hacia el Clásico con Teotihuacán y El Tajín, y finalmente con Tula y la Cuenca de México. Cronología 100 a. C. a 1500 d. C. Ubicación cronológica principal: Posclásico Tardío: 1200 a 1400 d. C.",
+    "estado": "Veracruz",
+    "abierto": false,
+    "coordenadas": [20.458022214114894, -97.28051899754924],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15360326.530104555!2d-115.60571324999998!3d19.963149400000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85dae3105a11e557%3A0xe4420fb5c933c0fd!2sSitio%20Arqueologico%20Vega%20de%20la%20Pe%C3%B1a!5e0!3m2!1ses!2smx!4v1699003156581!5m2!1ses!2smx",
+    "foto": "https://veracruz.mx/timthumb.php?src=fotos/foto1.jpg&w=870&h=391&"
+  },
+
+  {
+    "id": 1,
+    "nombre": "",
+    "significado": "",
+    "relevanciaCultural": "",
+    "estado": "",
+    "abierto": true,
+    "coordenadas": [],
+    "map": "",
+    "foto": ""
   }
   
 ]
