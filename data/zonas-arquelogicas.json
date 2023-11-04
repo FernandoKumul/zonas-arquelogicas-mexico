@@ -967,5 +967,137 @@
     "coordenadas": [19.58551282745025, -98.62447511882311],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3758.980503504351!2d-98.62708222590668!3d19.58533593578763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1cfb0f8c75eb9%3A0xbc0573a8e54dc755!2sZona%20Arqueol%C3%B3gica%20de%20Tecoaque%20-%20Sultepec!5e0!3m2!1ses-419!2smx!4v1699069980917!5m2!1ses-419!2smx",
     "foto": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Tecoaque1.jpg"
+  },
+
+   {
+    "id": 1,
+    "nombre": "Tepapayeca",
+    "significado": "AEl nombre de Tepapayeca puede tener dos significados, según “La Indonimia Geográfica de Puebla” viene del náhuatl tepapa, modificación de tepan que significa “en las piedras”; la otra raíz es yeca, verbo que equivale a pisar, del que se hace el sustantivo “suelo”, así se traduciría “suelo cercado de tapias de piedra”. Los habitantes del lugar, siendo la mayoría hablantes de náhuatl, tienen otra versión, dicen que es “lugar bueno y sereno”, pues señalan que se forma de la palabra tepapacca, que significa “tiempo sereno”, y del adjetivo yectli, que es ´bueno´",
+    "relevanciaCultural": "La zona arqueológica es una porción muy reducida, ya que se limita a los restos de un basamento piramidal y a cuatro edificios menores. De estos basamentos se cuenta con información de por lo menos una etapa constructiva anterior. ",
+    "estado": "Puebla",
+    "abierto": false,
+    "coordenadas": [18.674110190978684, -98.53092199001242],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3779.7794226050682!2d-98.5335398259317!3d18.67389166447519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce5459cca4c8ef%3A0x6b6bea3edb7483e9!2sZona%20Arqueol%C3%B3gica%20De%20Tepapayeca!5e0!3m2!1ses-419!2smx!4v1699138032982!5m2!1ses-419!2smx",
+    "foto": "https://sic.cultura.gob.mx/images/27983"
+  },
+
+   {
+    "id": 1,
+    "nombre": "Cantona",
+    "significado": "Entre las primeras impresiones registradas sobre el sitio, encontramos las publicadas en 1790 en las Gacetas de Alzate, donde se hace referencia al nombre de Cantona, y no es sino hasta 1855 cuando Henri de Saussure visita la zona y deja asentado que: «Los indios de los alrededores le llaman la ciudad de o del Cantón». Por su parte, en 1903 Nicolás León pública un texto titulado «Los Monumentos Arqueológicos en Cantona» donde menciona que el verdadero nombre del sitio es Caltonac, palabra proveniente de los vocablos nahuas calli= casa y tonalli= sol, es decir, «casa del sol», pero no existe ningún documento, ni referencia científica alguna que indique que así se le llamara en la antigüedad, por lo que es preferible nombrarlo como se le designó desde 1790: Cantona.",
+    "relevanciaCultural": "La zona arqueológica de Cantona es una de las ciudades prehispánicas más antiguas de México. Su nombre se deriva de la palabra náhuatl caltonal, que significa casa del sol. En la parte más alta está la acrópolis, donde existen las principales estructuras de los poderes político, económico y religioso, y las viviendas de sus líderes",
+    "estado": "Puebla",
+    "abierto": true,
+    "coordenadas": [19.55308008436211, -97.49297275375203],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3759.737435782245!2d-97.49590172590763!3d19.552882936830777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85dab6fc9024c86d%3A0x77df1a2173b92217!2sZona%20Arqueol%C3%B3gica%20de%20Cantona!5e0!3m2!1ses-419!2smx!4v1699138576494!5m2!1ses-419!2smx",
+    "foto": "https://sic.cultura.gob.mx/images/27978"
+  },
+
+   {
+    "id": 1,
+    "nombre": "Cholula",
+    "significado": "Su nombre deriva de la palabra prehispánica Chollolan, que significa “lugar de huida”. También se ha llegado a interpretar como “Agua que cae en el lugar de huida”, lo cual hace referencia al arribo de grupos Toltecas en la región luego de su expulsión de Tula cerca del año 1000 d. n. e. Asimismo, el sitio era reconocido como Tlachihualtépetl, es decir, 'el cerro hecho a mano' ",
+    "relevanciaCultural": "Vigilada por el Popocatepetl y el Iztaccihuatl creció una de las grandes ciudades del mundo prehispánico. Su nombre: Cholula. Tollan Chollolan Tlachiualtepetl, la ciudad de los que huyeron donde está el cerro hecho a mano, fue una de las principales ciudades mesoamericanas. En ella habitaron diversas culturas que adoraban a Quetzalcóatl.",
+    "estado": "Puebla",
+    "abierto": true,
+    "coordenadas": [19.056537617769308, -98.30164642068794],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.1677641288666!2d-98.30417842592136!3d19.056360152591008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc62f279fb965%3A0xc8d8587d86195681!2sZona%20Arqueol%C3%B3gica%20de%20San%20Pedro%20y%20San%20Andr%C3%A9s%20Cholula!5e0!3m2!1ses-419!2smx!4v1699138706772!5m2!1ses-419!2smx",
+    "foto": "https://sic.cultura.gob.mx/imagenes_cache/zona_arqueologica_80_g_70743.png"
+  },
+
+   {
+    "id": 1,
+    "nombre": "Cerritos de San Cristobal",
+    "significado": "El sitio recibe el nombre de la población más próxima y deriva de las palabras náhuatl tecpan- palacio, tlachtli- juego de pelota y co- lugar, Tecpantlaxco se traduce como “en el juego de pelota del palacio”. No obstante, existe otra interpretación que considera que su nombre deriva del vocablo Tepatlaixco que significa “llano donde abundan los pedregales” o “cercados de piedras. Comúnmente es conocido como “Los Cerritos de San Cristóbal Tepatlaxco”.",
+    "relevanciaCultural": "Realmente se conoce poco de la historia de los antiguos pobladores del sitio. Los estudios realizados consisten básicamente en la exploración de las estructuras A, Talud Este y Montículo B, así como la excavación de tres pozos estatigráficos ubicados en los alrededores.",
+    "estado": "Puebla",
+    "abierto": false,
+    "coordenadas": [19.319391320797173, -98.44450693613435],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120488.43167028613!2d-98.5897324566406!3d19.314369399999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfd5bf9abccef1%3A0x41d5702f0113aaec!2sZona%20Arqueol%C3%B3gica%20Los%20Cerritos%20de%20San%20Crist%C3%B3bal%20Tepatlaxco!5e0!3m2!1ses-419!2smx!4v1699138917232!5m2!1ses-419!2smx",
+    "foto": "https://sic.cultura.gob.mx/images/27981"
+  },
+
+   {
+    "id": 1,
+    "nombre": "Tepexi el Viejo",
+    "significado": "Tepexi significa en náhuatl “roca partida o escarpada.” Proviene de los vocablos Tetl, piedra y Pexic, partir o cortar.",
+    "relevanciaCultural": "Tepexi el Viejo fue un centro rector importante en la región, que hizo las veces de cabecera de un señorío popoloca que controlaba el sur de Puebla; el asentamiento se desarrolló durante el periodo Posclásico -entre el 1 200 y el 1 500 después de Cristo-.",
+    "estado": "Puebla",
+    "abierto": true,
+    "coordenadas": [18.57093859003691, -97.97818857246912],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30256.759373092238!2d-98.01440912190981!3d18.56975884436684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cf79cc59a1fd01%3A0x9feac8f5cf16fa0d!2s74690%20Tepexi%20el%20Viejo%2C%20Pue.!5e0!3m2!1ses-419!2smx!4v1699139006478!5m2!1ses-419!2smx",
+    "foto": "https://sic.cultura.gob.mx/images/27984"
+  },
+
+   {
+    "id": 1,
+    "nombre": "Yohualinchan",
+    "significado": "El nombre de Yohualichan ha sido interpretado como “La casa de la noche”, designación de origen nahua que quizá esté asociada a la profusión de cavernas en la región, las cuales pudieron ser el modelo, estilizado, de los nichos que caracterizan a las estructuras en el sitio.",
+    "relevanciaCultural": "El sitio está integrado por edificos, plazas y un juego de pelota; en el sistema constructivo se empleó piedra como recubrimiento de las estructuras y alfardas en las escalinatas. Quizá lo que más llamativo sean las grecas y los nichos utilizados que recuerdan a los edificios de la ciudad de El Tajín.",
+    "estado": "Puebla",
+    "abierto": true,
+    "coordenadas": [20.061827097424533, -97.50337629950373],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14990.926008724766!2d-97.5136330664662!3d20.06168600756853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85da8c6d7ebc4cf3%3A0x656405978f304cae!2s73566%20Yohualichan%2C%20Pue.!5e0!3m2!1ses-419!2smx!4v1699139134161!5m2!1ses-419!2smx",
+    "foto": "https://sic.cultura.gob.mx/images/47549"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Comacalco",
+    "significado": "El nombre de Comalcalco significa en idioma Náhuatl “En la casa del comal”, según fuentes históricas de 1564, del Archivo General de Indias. Su nombre original en idioma Cholano fue Joy Chan, que significa“Cielo enrollado”, según los estudios epigráficos en el sitio.",
+    "relevanciaCultural": "El asentamiento prehispánico de Comalcalco constituyó un importante enclave comercial en la región de la Chontalpa, por constituir una zona de tránsito entre la costa del Golfo y la península de Yucatán, respecto al área del río Usumacinta, el Altiplano central y el extremo norte del Golfo de México. ",
+    "estado": "Tabasco",
+    "abierto": true,
+    "coordenadas": [18.278916337678698, -93.20013630318762],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15154.686580908652!2d-93.22129356725667!3d18.270868050446342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee8eea4dee50e9%3A0x74eee21ee020648e!2sZona%20Arqueol%C3%B3gica%20Comalcalco!5e0!3m2!1ses-419!2smx!4v1699139774713!5m2!1ses-419!2smx",
+    "foto": "https://sic.cultura.gob.mx/images/28115"
+  },
+
+  {
+    "id": 1,
+    "nombre": "La venta",
+    "significado": "Se desconoce el nombre prehispánico del lugar. La zona arqueológica adquiere su nombre por el hecho que allí se realizaba la venta de maderas preciosas a finales del siglo XIX y principios del siglo XX, según la tradición oral.",
+    "relevanciaCultural": "Esta zona arqueológica representa uno de los apogeos de la civilización olmeca. Esta antigua ciudad se distingue por representar el primer trazo arquitectónico planificado en el México antiguo, su arquitectura monumental de tierra, su gran acervo escultórico y sus ofrendas de jade, al igual que por sus ofrendas masivas, únicas en el mundo prehispánico.",
+    "estado": "Tabasco",
+    "abierto": true,
+    "coordenadas": [18.103404305372976, -94.04021513922368],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1896.1569367932966!2d-94.04149016032716!3d18.103291100000014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e95dd849f98c49%3A0x1b02b628c92bb6e8!2sLa%20Venta!5e0!3m2!1ses-419!2smx!4v1699140467813!5m2!1ses-419!2smx",
+    "foto": "https://sic.cultura.gob.mx/images/25994"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Malpasito",
+    "significado": "Malpasito deriva su nombre del poblado ejidal Malpaso Huimanguillo Tabasco, en alusión a lo accidentado del relieve en la región. Existen dos lugares más con el mismo nombre: el ejido Malpasito municipio de las Choapas Veracruz y el poblado Raudales de Malpaso cabecera del municipio Mezcalapa en Chiapas.",
+    "relevanciaCultural": "Este sitio funcionó como punto de cohesión de asentamientos menores ubicados en el valle de Las Flores, favorecidos, además de la abundancia de recursos naturales, por condiciones propicias para la explotación agrícola, así como por la cercanía del río Grijalva, que fue una de las principales vías de comunicación entre las costas del Pacífico y el Golfo de México.",
+    "estado": "Tabasco",
+    "abierto": false,
+    "coordenadas": [17.33800778303462, -93.5988573268248],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3808.540289304652!2d-93.60172192596599!3d17.337715904236394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ec7cbdab1f56f9%3A0x560546282ad0e6e!2sZona%20Arqueol%C3%B3gica%20de%20Malpasito!5e0!3m2!1ses-419!2smx!4v1699140613959!5m2!1ses-419!2smx",
+    "foto": "https://sic.cultura.gob.mx/images/28118"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Moral- Reforma",
+    "significado": "En diversas publicaciones anteriores a 1992 el sitio ha sido referido con diversos nombres: Reforma II, Reforma, Moral, Morales, Balancán-Morales e incluso Ruinas de Acalán. La abundancia de árboles de moral (Maclura tinctoria) pudo inspirar un de los nombres más recurrentes y Reforma por encontrarse en el Ejido reforma-Provincia. Por lo que el Arqlgo. Daniel Juárez en 1993 determinó llamar al sitio Moral-Reforma con el propósito de evitar mayores confusiones.",
+    "relevanciaCultural": "Moral-Reforma funcionó como un puerto o lugar de trueque con otras ciudades mayas de los estados mexicanos de Campeche, Chiapas y de Guatemala. Cerca de estos vestigios se unen los ríos Usumacinta -el mayor del país- y San Pedro, vía de comunicación con el sur de México.",
+    "estado": "Tabasco",
+    "abierto": true,
+    "coordenadas": [17.769234238254906, -91.29813547654314],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3799.4808131567775!2d-91.30072112595523!3d17.76908609169932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f3f15070213937%3A0x89c53c0a7c938d56!2sZona%20Arqueol%C3%B3gica%20De%20Moral-Reforma!5e0!3m2!1ses-419!2smx!4v1699140863879!5m2!1ses-419!2smx",
+    "foto": "https://sic.cultura.gob.mx/images/28121"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Pomoná",
+    "significado": "El sitio arqueológico toma su nombre del arroyo Pomoná, tributario del bajo Usumacinta.",
+    "relevanciaCultural": "Esta ciudad se localiza en las inmediaciones del Usumacinta, por ello jugó un papel importante en la relación política y económica de su región, que comprende una porción de El Petén. Uno de los recursos importantes de Pomoná fue la agricultura, práctica que se facilitó debido a que se encuentra en la región de aluviones. ",
+    "estado": "Tabasco",
+    "abierto": true,
+    "coordenadas": [17.48490637972177, -91.56982834401425],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3805.477034436834!2d-91.57257492596236!3d17.48472729999594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f3bccff389d03f%3A0xf77a7f1c140ef3e6!2sPomon%C3%A1%20Zona%20Arqueol%C3%B3gica!5e0!3m2!1ses-419!2smx!4v1699140766270!5m2!1ses-419!2smx",
+    "foto": "https://sic.cultura.gob.mx/imagenes_cache/zona_arqueologica_102_g_70835.png"
   }
 ]
