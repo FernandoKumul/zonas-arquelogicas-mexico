@@ -3,7 +3,7 @@
     "id": 1,
     "nombre": "El vallecito",
     "significado": "Hasta hace pocos años los lugareños se referían al sitio como la Cueva del Indio, pero cuando se empezaron a encontrar más conjuntos con pinturas, en una especie de vallecito, al iniciar las exploraciones arqueológicas se comenzó a utilizar este nombre para referirse a todo el sitio y así prevaleció la designación.",
-    "relevanciaCultural": "Con más de 23 conjuntos de pinturas y petrograbados en los que las figuras antropomorfas son esquemáticas y geométricas del denominado estilo La Rumorosa, se localiza la zona arqueológica \"El Vallecito\". En la zona existe todavía un bosque de pinos piñoneros que en verano era explotado por los Kumiai de la región, sin embargo la riqueza de los bosques de piñones va más allá, pues se encuentra en una zona de transición con vegetación de chaparral y al norte con vegetación típica del desierto, lo que les proporcionaba una cantidad considerable de alimentos a sus antiguos moradores. Este alimento debió de haber sido suficiente como para que durante esa época se reunieran muchas familias y se llevaran a cabo celebraciones, intercambios y rituales mágico-religiosos. De los 23 conjuntos con pinturas y petrograbados solamente cinco son los que están abiertos al público, mismos que se visitan en un recorrido en un sendero temático de alrededor de 2 kilómetros, Estos se visitan en el siguiente orden: Conjunto Tiburón, Conjunto del Solsticio o el Diablito, Conjunto el Hombre Enraizado, La Cueva del Indio y Conjunto de Los Solecitos o Wittinñur.",
+    "relevanciaCultural": "Con más de 23 conjuntos de pinturas y petrograbados en los que las figuras antropomorfas son esquemáticas y geométricas del denominado estilo La Rumorosa, se localiza la zona arqueológica “El Vallecito”. En la zona existe todavía un bosque de pinos piñoneros que en verano era explotado por los Kumiai de la región, sin embargo la riqueza de los bosques de piñones va más allá, pues se encuentra en una zona de transición con vegetación de chaparral y al norte con vegetación típica del desierto, lo que les proporcionaba una cantidad considerable de alimentos a sus antiguos moradores. Este alimento debió de haber sido suficiente como para que durante esa época se reunieran muchas familias y se llevaran a cabo celebraciones, intercambios y rituales mágico-religiosos. De los 23 conjuntos con pinturas y petrograbados solamente cinco son los que están abiertos al público, mismos que se visitan en un recorrido en un sendero temático de alrededor de 2 kilómetros, Estos se visitan en el siguiente orden: Conjunto Tiburón, Conjunto del Solsticio o el Diablito, Conjunto el Hombre Enraizado, La Cueva del Indio y Conjunto de Los Solecitos o Wittinñur.",
     "estado": "Baja California",
     "abierto": true,
     "coordenadas": [32.53596680024607, -116.09471899999996],
@@ -585,8 +585,7 @@
     "coordenadas": [18.676595485041247, -98.77081191884808],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3779.721513843005!2d-98.77341902593164!3d18.676488764395224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce5e95760b22ef%3A0x20a5ee703b4a2808!2sZona%20Arqueol%C3%B3gica%20Chalcatzingo!5e0!3m2!1ses-419!2smx!4v1699056417788!5m2!1ses-419!2smx",
     "foto": "https://www.mexicoescultura.com/galerias/espacios/principal/chalcatzingo_900.jpg"
-  }
-
+  },
   {
     "id": 1,
     "nombre": "Coatetelco",
@@ -686,7 +685,7 @@
   {
     "id": 1,
     "nombre": "Atzompa",
-    "significado": "Atzompa, del náhuatl, significa ‘En la cumbre del agua’ (atl ‘agua’; tzontle ‘cabellera’, ‘altura’ y cumbre"; y pan ‘en’ o ‘sobre’).",
+    "significado": "Atzompa, del náhuatl, significa ‘En la cumbre del agua’ (atl ‘agua’; tzontle ‘cabellera’, ‘altura’ y cumbre’; y ‘pan ‘en’ o ‘sobre’).",
     "relevanciaCultural": "El sitio fue ocupado por la civilización zapoteca en el periodo clásico mesoamericano, del 650 al 900 d. C. Pudo ser una zona habitacional satélite de Monte Albán, probablemente habitado por un linaje común o alguna élite de la urbe principal al igual que Cerro del Gallo, El Plumaje, El Mogollito, Cerro de la Cruz, Monte Albán Chico y El Paragüito.",
     "estado": "Oaxaca",
     "abierto": true,
@@ -711,7 +710,7 @@
     "id": 1,
     "nombre": "Dainzú",
     "significado": "El sitio fue bautizado por Ignacio Bernal como Dainzú, al enterarse de que los pobladores de la zona le conocían con un nombre similar a Dannizhú, refiriéndose en lengua zapoteca a “cerro de órganos”, por la vegetación que hay en él. También se le atribuye el nombre de Quiebelagayo, sinónimo zapoteca de la palabra náhuatl Macuilxóchitl o “cinco flor”. Oliveros propone que Macuilxóchitl es el más adecuado, pues además de ser el nombre de la población actual bajo la que se encuentran los restos del área habitacional del sitio, “5 Flor” es el nombre de una de las deidades principales de la práctica del juego de pelota, actividad ampliamente representada en Dainzú.",
-    "relevanciaCultural": "​ Se trata de una antigua ciudad contemporánea de Monte Albán cuyo florecimiento fue anterior a la fundación de la metrópoli de Los Valles. Fue fundada alrededor del siglo VII a. C. y continuó habitada hasta el final del Período Preclásico mesoamericano (s. III d. C.). Las primeras excavaciones arqueológicas formales fueron realizadas por Ignacio Bernal.",
+    "relevanciaCultural": "Se trata de una antigua ciudad contemporánea de Monte Albán cuyo florecimiento fue anterior a la fundación de la metrópoli de Los Valles. Fue fundada alrededor del siglo VII a. C. y continuó habitada hasta el final del Período Preclásico mesoamericano (s. III d. C.). Las primeras excavaciones arqueológicas formales fueron realizadas por Ignacio Bernal.",
     "estado": "Oaxaca",
     "abierto": true,
     "coordenadas": [17.00407450074331, -96.55733026306923],
@@ -853,8 +852,8 @@
   {
     "id": 1,
     "nombre": "Cerro de las Ventanas",
-    "significado": "La Zona Arqueológica Cerro de las Ventanas debe su nombre a un muro de mampostería de manufactura prehispánica, el cual tiene orificios que semejan ventanas. Se construyó sobre el frente de roca en la peña más alta del cerro, y se aprecia desde el valle."",
-    "relevanciaCultural":"Las Ventanas es un sitio arqueológico ubicado en el estado mexicano de Zacatecas. Se le denominó de esta manera debido a causa de que el complejo estructural más importante en la zona cuenta con unas cavernas con observatorios parecidos a "ventanas". Se encuentra en un acantilado. ",
+    "significado": "La Zona Arqueológica Cerro de las Ventanas debe su nombre a un muro de mampostería de manufactura prehispánica, el cual tiene orificios que semejan ventanas. Se construyó sobre el frente de roca en la peña más alta del cerro, y se aprecia desde el valle.",
+    "relevanciaCultural":"Las Ventanas es un sitio arqueológico ubicado en el estado mexicano de Zacatecas. Se le denominó de esta manera debido a causa de que el complejo estructural más importante en la zona cuenta con unas cavernas con observatorios parecidos a “ventanas”. Se encuentra en un acantilado. ",
     "estado": "Zacatecas",
     "abierto": true,
     "coordenadas": [22.748778410203847, -102.58380577639748],
@@ -903,7 +902,7 @@
     "nombre": "Tancama",
     "significado": "El nombre Tancama proviene de la lengua huasteca y significa en español colina de fuego. 1​ Este sitio tiene un valor clave para la comprensión de la cultura Huasteca, entre otras que originalmente habitaron el lugar. El sitio está abierto al público desde 2011.",
     "relevanciaCultural":"El sitio alcanzó su apogeo máximo entre los años 700 al 900 de nuestra era; existiendo indicios de una ocupación de la zona que data desde el año 200 a. C. Una de las razones que se teorizan para la ocupación de este lugar es la calidad del suelo para la explotación agrícola y la variedad de recursos naturales de la zona.",
-    "estado": "Queretaro",
+    "estado": "Querétaro",
     "abierto": false,
     "coordenadas": [21.172146161585683, -99.42192187622896],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14882.06051943299!2d-99.43252196593495!3d21.171685947706877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d4165a01f05b8f%3A0x9e222b790ef5be80!2s76347%20Tanc%C3%A1ma%2C%20Qro.!5e0!3m2!1ses-419!2smx!4v1699068610881!5m2!1ses-419!2smx",
@@ -915,7 +914,7 @@
     "nombre": "Toluquilla",
     "significado": "Toluquilla es un vocablo híbrido, que proviene de la raíz náhuatl tolloa que describe la acción de jorobarse y la partícula castellana illa, lo que tendría un significado equivalente a “Cerro Jorobado” o “Jorobadillo”.",
     "relevanciaCultural":"Muy posiblemente Toluquilla estuvo relacionada con el vecino sitio de Ranas; los estudios indican que permaneció ocupada desde el año 300 d.C. hasta alrededor del 1300 de nuestra era.",
-    "estado": "Queretaro",
+    "estado": "Querétaro",
     "abierto": false,
     "coordenadas": [20.883859516246023, -99.53093667116426],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3727.7122842025497!2d-99.5309474!3d20.883644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d40b2451da5427%3A0x3731058d1ca01639!2sZona%20Arqueol%C3%B3gica%20de%20Toluquilla!5e0!3m2!1ses-419!2smx!4v1699068928476!5m2!1ses-419!2smx",
@@ -968,5 +967,5 @@
     "coordenadas": [19.58551282745025, -98.62447511882311],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3758.980503504351!2d-98.62708222590668!3d19.58533593578763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1cfb0f8c75eb9%3A0xbc0573a8e54dc755!2sZona%20Arqueol%C3%B3gica%20de%20Tecoaque%20-%20Sultepec!5e0!3m2!1ses-419!2smx!4v1699069980917!5m2!1ses-419!2smx",
     "foto": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Tecoaque1.jpg"
-  },
+  }
 ]
