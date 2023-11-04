@@ -565,13 +565,408 @@
 
   {
     "id": 1,
-    "nombre": "",
-    "significado": "",
-    "relevanciaCultural": "",
-    "estado": "",
+    "nombre": "Olintepec",
+    "significado": "Olintepec, traducción nahua del glifo que representa al sitio, significa: “cerro en movimiento”.",
+    "relevanciaCultural": "Centro rector de la región, en una de las zonas de riego más ricas del actual estado de Morelos, estuvo habitado desde el año 1500 a.C. hasta principios del siglo XVII. Una gran plaza y dos plataformas de cinco metros de altura son testimonio de su antiguo esplendor.",
+    "estado": "Morelos",
+    "abierto": false,
+    "coordenadas": [18.740570841179803, -98.98761356972764],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7556.5235434274355!2d-98.99514521241348!3d18.74184083957082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce65192eba43af%3A0x5e69fa7b4a7d1f24!2sZona%20Arqueol%C3%B3gica%20del%20Olintepec!5e0!3m2!1ses-419!2smx!4v1699053749863!5m2!1ses-419!2smx",
+    "foto": "https://sic.cultura.gob.mx/imagenes_cache/zona_arqueologica_65_g_70831.png"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Chalcatzingo",
+    "significado": "Su nombre tiene tres significados de origen náhuatl: “el lugar más preciado de los Chalcas”, “venerado lugar de agua sagrada” o “de los jades preciosos”.",
+    "relevanciaCultural": "Chalcatzingo fue un centro cívico ceremonial muy importante en el oriente del valle de Morelos durante el periodo Preclásico Medio (1200-400 a.C.).",
+    "estado": "Morelos",
     "abierto": true,
-    "coordenadas": [],
-    "map": "",
-    "foto": ""
+    "coordenadas": [18.676595485041247, -98.77081191884808],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3779.721513843005!2d-98.77341902593164!3d18.676488764395224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce5e95760b22ef%3A0x20a5ee703b4a2808!2sZona%20Arqueol%C3%B3gica%20Chalcatzingo!5e0!3m2!1ses-419!2smx!4v1699056417788!5m2!1ses-419!2smx",
+    "foto": "https://www.mexicoescultura.com/galerias/espacios/principal/chalcatzingo_900.jpg"
   }
+
+  {
+    "id": 1,
+    "nombre": "Coatetelco",
+    "significado": "La traducción del náhuatl, de la palabra Coatetelco significa “Lugar de las serpientes en los montículos de piedra” o “Lugar donde hay montículos erigidos en honor a las serpientes”.",
+    "relevanciaCultural": "El auge de Coatetelco sucedió en el Preclásico Tardío (500-150 antes de Cristo); en ese momento las comunidades tenían entre 250 y 500 habitantes; su economía era diversificada y se requirió de una organización sociopolítica mucho más compleja. ",
+    "estado": "Morelos",
+    "abierto": true,
+    "coordenadas": [18.75713681778216, -99.32198526233535],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d483661.2074198551!2d-99.90288734436034!3d18.726575694654453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cdd057043ffdb7%3A0xad5a4b9095f012f4!2sZona%20Arqueol%C3%B3gica%20de%20Coatetelco!5e0!3m2!1ses-419!2smx!4v1699057675191!5m2!1ses-419!2smx",
+    "foto": "https://sic.cultura.gob.mx/imagenes_cache/zona_arqueologica_63_i_66427.png"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Las pilas",
+    "significado": "",
+    "relevanciaCultural": "fue levantada entre los años del 500 y 650 d. C. con influencias teotihuacanas. Las Pilas fue un lugar de culto al agua como se observa en la red de canales que forman dos estructuras piramidales.",
+    "estado": "Morelos",
+    "abierto": true,
+    "coordenadas": [18.687688377713336, -98.79982953419074],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3779.4740828033614!2d-98.80239372593132!3d18.68758166405357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce5e7ba5421083%3A0x3073455c1077fc4!2sZona%20Arqueol%C3%B3gica%20de%20Las%20Pilas!5e0!3m2!1ses-419!2smx!4v1699058207394!5m2!1ses-419!2smx",
+    "foto": "https://lacensura.com/wp-content/uploads/2021/07/Zona-Arqueologica-Las-Pilas-en-Jonacatepec-Morelos-1.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Teopanzolco",
+    "significado": "Teopanzolco es una palabra del idioma náhuatl que se interpreta como El lugar del templo viejo.",
+    "relevanciaCultural": "Teopanzolco fue en tiempos prehispánicos un importante centro politíco-religioso, vecino de la antigua Cuauhnahuac.Los habitantes de esta tierra eran denominados por los demás pueblos, como Tlahuicas.",
+    "estado": "Morelos",
+    "abierto": true,
+    "coordenadas": [18.931071421828182, -99.22206104952716],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3774.0087811675953!2d-99.22458232592483!3d18.931005456510576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cddfb9c5d3f18d%3A0xd7b26b9b8a401f75!2sZona%20Arqueol%C3%B3gica%20de%20Teopanzolco!5e0!3m2!1ses-419!2smx!4v1699058650991!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Teopanzolco_Morelos.jpg/800px-Teopanzolco_Morelos.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Tepozteco",
+    "significado": "Ruinas de un templo azteca dedicado al dios del pulque (una bebida alcohólica), creado cerca del 1,200 d.C.",
+    "relevanciaCultural": "Este centro fue edificado aprovechando una elevación natural del terreno que además fue acentuada por la mano humana, la mayor parte de los materiales constructivos no se encuentran ahí, de manera que debieron ser acarreados desde la fuente de obtención y cargados en hombros por los tamemes.",
+    "estado": "Morelos",
+    "abierto": true,
+    "coordenadas": [19.00081803632831, -99.10144788630333],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3772.4305139209805!2d-99.10421592592292!3d19.000741954333012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce0c829e31e209%3A0x8dfa99f65f646629!2sZona%20Arqueol%C3%B3gica%20el%20Tepozteco!5e0!3m2!1ses-419!2smx!4v1699058951819!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Piramidedeltepozteco.jpg/1024px-Piramidedeltepozteco.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Xochicalco",
+    "significado": "El toponímico de Xochicalco significa “en el lugar de la casa de las flores”, compuesto por las palabras nahuas xóchi(tl) flor, cal(li) “casa” y co un locativo “lugar de”.",
+    "relevanciaCultural": "caracterizado por el surgimiento de ciudades en el centro de México tras el declive de la urbe teotihuacana y el vacío de poder dejado por ésta.",
+    "estado": "Morelos",
+    "abierto": true,
+    "coordenadas": [18.80307858307124, -99.29066087714934],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15108.307244900674!2d-99.30503751703395!3d18.794729931333098!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cdda3727862953%3A0xd012c18c132795a6!2sZona%20Arqueol%C3%B3gica%20de%20Xochicalco!5e0!3m2!1ses-419!2smx!4v1699059470541!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Xochicalco_-_panoramio.jpg/1024px-Xochicalco_-_panoramio.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Yautepec",
+    "significado": "De acuerdo a la interpretación de su glifo, Yautepec significa “en el cerro del yauhtli”, de yauhtli=planta silvestre de color amarillo que actualmente se conoce como “pericón”; y tepetl=cerro.",
+    "relevanciaCultural": "Yautepec y todo el Valle de Morelos tuvo un papel subordinado en la historia Mesoamericana. Del Clásico al Posclásico las poblaciones locales se desarrollaron bajo la influencia de Teotihuacanos, Toltecas y Nahuas",
+    "estado": "Morelos",
+    "abierto": true,
+    "coordenadas": [18.880951761842503, -99.06942837836421],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3775.142375378292!2d-99.07193892592616!3d18.880763958074827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce73da92f2443f%3A0xc8409b6e6dfd6be6!2sZona%20Arqueol%C3%B3gica%20de%20Yautepec!5e0!3m2!1ses-419!2smx!4v1699059331386!5m2!1ses-419!2smx",
+    "foto": "https://sic.gob.mx/images/27710"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Ixtlán del río",
+    "significado": "Localmente se le conoce como “Los Toriles”, nombre del terreno sobre el que se encuentra. De igual forma, el sitio se encuentra registrado en la Dirección de Registro Público de Monumentos y Zonas Arqueológicos bajo el nombre “Los Toriles”.",
+    "relevanciaCultural": "Importante sitio que muy posiblemente fue habitado desde el año 300 a. C. hasta el 600 d. C. En esa primera fase se desarrolló un complejo cultural conocido como la tradición de las Tumbas de Tiro en las que se depositaban ofrendas al interior de cámaras fúnebres.",
+    "estado": "Nayarit",
+    "abierto": true,
+    "coordenadas": [21.03980090267054, -104.34477167645194],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.824282158991!2d-104.34735732586401!3d21.03971578740435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8426f7654e21aeeb%3A0xa6393f21662c8441!2sZona%20Arquel%C3%B3gica%20de%20Ixtl%C3%A1n%20del%20R%C3%ADo%20o%20Los%20Toriles!5e0!3m2!1ses-419!2smx!4v1699060241503!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ixtl%C3%A1n.jpg/1024px-Ixtl%C3%A1n.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Boca de Potrerillos",
+    "significado": "A finales del virreinato se construyó un rancho vinatero llamado “Boca de Potrerillos” que dio nombre a la zona arqueológica.",
+    "relevanciaCultural": "La principal característica de este sitio es albergar una de los mayores concentraciones de arte rupestre de México. Aunque hay algunas pinturas, la gran mayoría de las obras son petrograbados. Aproximadamente 3000 en toda el área.",
+    "estado": "Nuevo León",
+    "abierto": true,
+    "coordenadas": [26.04506822332575, -100.64230054403575],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3584.6494085093686!2d-100.64687102805878!3d26.045024846416823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8689d541696c45d7%3A0x59bf6c8ba1dd5395!2sZona%20Arqueol%C3%B3gica%20Boca%20de%20potrerillos!5e0!3m2!1ses-419!2smx!4v1699060571131!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Mina_piedra.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Atzompa",
+    "significado": "Atzompa, del náhuatl, significa ‘En la cumbre del agua’ (atl ‘agua’; tzontle ‘cabellera’, ‘altura’ y cumbre"; y pan ‘en’ o ‘sobre’).",
+    "relevanciaCultural": "El sitio fue ocupado por la civilización zapoteca en el periodo clásico mesoamericano, del 650 al 900 d. C. Pudo ser una zona habitacional satélite de Monte Albán, probablemente habitado por un linaje común o alguna élite de la urbe principal al igual que Cerro del Gallo, El Plumaje, El Mogollito, Cerro de la Cruz, Monte Albán Chico y El Paragüito.",
+    "estado": "Oaxaca",
+    "abierto": true,
+    "coordenadas": [17.079072842129662, -96.7827145360818],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3813.872603589321!2d-96.78520362597229!3d17.078883111621437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c718d250889cf3%3A0x170baea3dcd38b8!2sZona%20Arqueol%C3%B3gica%20de%20Atzompa!5e0!3m2!1ses-419!2smx!4v1699060834163!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sitio_Arqueol%C3%B3gico_de_Atzompa.jpg/800px-Sitio_Arqueol%C3%B3gico_de_Atzompa.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Bocana del Río Copalita",
+    "significado": "Copalita. Término en lengua náhuatl que significa Lugar de Copal.",
+    "relevanciaCultural": "Fue un sitio que controló la navegación costera, y es el único registrado hasta el momento que cuenta con un indicador de navegación, consistente en una estela de piedra ubicada en la parte alta de un acantilado, que servía para orientar los cayucos cuando estaban en mar abierto.",
+    "estado": "Oaxaca",
+    "abierto": false,
+    "coordenadas": [15.791208573678052, -96.05428285762245],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3839.246610942144!2d-96.05896063000282!3d15.790945313368038!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85bf2e7fae639bb5%3A0x7396542c74ee2d07!2sParque%20Eco-Arqueologico%20Copalita!5e0!3m2!1ses-419!2smx!4v1699061281113!5m2!1ses-419!2smx",
+    "foto": "https://www.travelbymexico.com/blog/imgBase/2010/09/juego-de-pelota.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Dainzú",
+    "significado": "El sitio fue bautizado por Ignacio Bernal como Dainzú, al enterarse de que los pobladores de la zona le conocían con un nombre similar a Dannizhú, refiriéndose en lengua zapoteca a “cerro de órganos”, por la vegetación que hay en él. También se le atribuye el nombre de Quiebelagayo, sinónimo zapoteca de la palabra náhuatl Macuilxóchitl o “cinco flor”. Oliveros propone que Macuilxóchitl es el más adecuado, pues además de ser el nombre de la población actual bajo la que se encuentran los restos del área habitacional del sitio, “5 Flor” es el nombre de una de las deidades principales de la práctica del juego de pelota, actividad ampliamente representada en Dainzú.",
+    "relevanciaCultural": "​ Se trata de una antigua ciudad contemporánea de Monte Albán cuyo florecimiento fue anterior a la fundación de la metrópoli de Los Valles. Fue fundada alrededor del siglo VII a. C. y continuó habitada hasta el final del Período Preclásico mesoamericano (s. III d. C.). Las primeras excavaciones arqueológicas formales fueron realizadas por Ignacio Bernal.",
+    "estado": "Oaxaca",
+    "abierto": true,
+    "coordenadas": [17.00407450074331, -96.55733026306923],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3815.4027183452486!2d-96.55988372597412!3d17.003905213741522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c72fdd88252667%3A0x913732d6a62bf40c!2sDainz%C3%BA%20Zona%20Arqueol%C3%B3gica!5e0!3m2!1ses-419!2smx!4v1699061588367!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dainzu_Relief_86.svg/800px-Dainzu_Relief_86.svg.png"
+  },
+{
+    "id": 1,
+    "nombre": "Guiengola",
+    "significado": "El toponímico de Guiengola tiene dos significados, el primero derivado de la lengua zapoteca del istmo, compuesto de las palabras guie: piedra y gola: grande o viejo “Roca Grande” y el segundo “cerro grande o antiguo” según Danyroó.",
+    "relevanciaCultural": "El entorno de la zona es adecuado para la agricultura, especialmente el cultivo de maíz, haciéndola adecuada para asentamientos humanos. Durante el periodo del nacimiento de la civilización zapoteca, el piso del valle no había sido erosionado, ya que había un bosque de robles y pinos intacto. ",
+    "estado": "Oaxaca",
+    "abierto": false,
+    "coordenadas": [16.386077663527175, -95.32272577657658],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3827.7625898582546!2d-95.32531142598864!3d16.386051930880658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85bff41030145aaf%3A0x79214bb43e5d6641!2sZona%20Arqueol%C3%B3gica%20Guiengola!5e0!3m2!1ses-419!2smx!4v1699061872271!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Guiengola3.jpg/1024px-Guiengola3.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Huamelulpan",
+    "significado": "Esta Zona Arqueológica se asienta en un cerro que se conoce como Yucunindaba que en mixteco que significa “Cerro Volado” o “Cerro que Voló”",
+    "relevanciaCultural": "Por sus dimensiones debió ser una de las mayores urbes mesoamericanas de su tiempo, y también fue una de las que presenta una más larga ocupación, desde el Preclásico hasta el Posclásico. El período de apogeo de esta ciudad corresponde a la fase Ramos (ss. V a. C.-II d. C.), época de conformación de las sociedades urbanas en Mesoamérica.",
+    "estado": "Oaxaca",
+    "abierto": false,
+    "coordenadas": [17.39810162948483, -97.59892187285215],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3807.2885913288956!2d-97.60165772596451!3d17.397932702503432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c63b3a42362573%3A0xc3f77b312971844d!2sZona%20Arqueol%C3%B3gica%20de%20Huamel%C3%BAlpan!5e0!3m2!1ses-419!2smx!4v1699062314051!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Huamelulpan1.jpg/320px-Huamelulpan1.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Lambityeco",
+    "significado": "Algunos investigadores consideran que Lambityeco significa “cerros de alambique” (compuesto por la palabra española alambique y de la zapoteca pytec ´cerros´); otros proponen que se trata de un vocablo zapoteco, ya transformado, equivalente a “loma hueca”. La zona arqueológica de Lambityeco forma parte de un asentamiento mucho mayor, conocido como Yeguih (“cerrito” en zapoteco).",
+    "relevanciaCultural": "Lambityeco es un sitio arqueológico localizado a unos 25 km al sureste de la ciudad de Oaxaca. Los monumentos arqueológicos explorados y expuestos a la vista incluyen dos conjuntos palaciegos. Estos palacios, junto con sus tumbas fueron excavados y restaurados entre 1961 y 1976 por el personal del Instituto de Estudios Oaxaqueños, bajo la dirección de John Paddock.",
+    "estado": "Oaxaca",
+    "abierto": true,
+    "coordenadas": [16.9719986311653, -96.49189127471263],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3816.0580249193995!2d-96.49455202597487!3d16.971695914649498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c732207d1fc2c5%3A0x28e17036cb7a748e!2sZona%20Arqueol%C3%B3gica%20de%20Lambityeco!5e0!3m2!1ses-419!2smx!4v1699062835991!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lambityeco.JPG/800px-Lambityeco.JPG"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Mitla",
+    "significado": "Mictlán, que en náhuatl significa “lugar de los muertos”, fue el nombre que dieron los Mexicas a este lugar. El nombre zapoteco es Lyobáa, identificado como “lugar de descanso”, “sepultura”, “tumba”, “lugar abundante en cadáveres” o “cementerio”, por diversos autores.",
+    "relevanciaCultural": "La zona arqueológica comprende cinco conjuntos de arquitectura monumental: Grupo del Norte; Grupo de las Columnas; Grupo del Adobe o del Calvario; Grupo del Arroyo y Grupo del Sur. Los conjuntos del Adobe o Calvario y del Sur, por haber sido construidos en épocas anteriores, reproducen la tradición de plazas, rodeadas de palacios sobre plataformas, al estilo de Monte Albán.",
+    "estado": "Oaxaca",
+    "abierto": true,
+    "coordenadas": [16.92705628389434, -96.35930574190678],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3816.964131857323!2d-96.36184847597593!3d16.92706141590524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c0cc66c8406ad3%3A0x55069ede4d9c91ed!2sZona%20Arqueol%C3%B3gica%20de%20Mitla!5e0!3m2!1ses-419!2smx!4v1699063271526!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Grecas_Palacio_Grupo_Columnas.JPG/1024px-Grecas_Palacio_Grupo_Columnas.JPG"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Monte Albán",
+    "significado": "No se conoce el nombre original, algunas propuestas son Danibaan o “Montaña Sagrada”, “Colina del Jaguar”, Danibéeje o “Cerro del Tigre”. Otros dicen que se refiere a las flores blancas de los árboles de cazahuate que cubren el cerro.",
+    "relevanciaCultural": "Fue la antigua capital de los zapotecos y una de las primeras ciudades de Mesoamérica, y de las más populares durante su auge. Se fundó aproximadamente 500 años a. C., floreciendo hasta 500 d. C., desde el declive de San José Mogote en el Preclásico Medio (1500-700 a. C.) hasta el ocaso de la ciudad, ocurrido alrededor del siglo ix.",
+    "estado": "Oaxaca",
+    "abierto": true,
+    "coordenadas": [17.046736288494316, -96.76575565936787],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3814.532268067202!2d-96.76845932597304!3d17.046597812535417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c71889bd8cefc9%3A0xa7ae066e8fd0d2ca!2sZona%20Arqueol%C3%B3gica%20de%20Monte%20Alb%C3%A1n!5e0!3m2!1ses-419!2smx!4v1699063978340!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Borrala.JPG/1024px-Borrala.JPG"
+  },
+
+{
+    "id": 1,
+    "nombre": "Yagul",
+    "significado": "Según Ignacio Bernal y Lorenzo Gamio, Yagul significa “Árbol” o “Palo Viejo”.",
+    "relevanciaCultural": "En agosto de 2010, el Comité del Patrimonio de la Humanidad de la UNESCO tuvo a bien incluir el sitio Cuevas Prehistóricas de Yagul y Mitla, de los valles centrales de Oaxaca, en la lista de Patrimonio de la Humanidad, reconociendo así el conjunto de valores culturales y naturales de este paisaje cultural y su relación con los grupos humanos que habitaron esta región.",
+    "estado": "Oaxaca",
+    "abierto": true,
+    "coordenadas": [16.958314841948496, -96.44996333423457],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3816.3350184586975!2d-96.45252752597519!3d16.958063415033426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c732ff30b0489d%3A0x3fee0281133d8e14!2sYagul!5e0!3m2!1ses-419!2smx!4v1699064128698!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Zona_Arqueol%C3%B3gica_de_Yagul.jpg/270px-Zona_Arqueol%C3%B3gica_de_Yagul.jpg"
+  },
+
+{
+    "id": 1,
+    "nombre": "Zaachila",
+    "significado": "En la Relación Geográfica de Oaxaca se dice que Teozapotlán, que en zapoteco se llama Zaachila, significa “Dios de la Zapoteca”. Fray Juan de Córdova afirma que en la composición intervienen las palabras Zaa, que designa a la primera de las hijas, y chila, nombre del primer día del año ritual (piyé) zapoteco. Wilfrido C. Cruz, hace un análisis de este hecho y concluye que el significado puede ser “lagarto” o “cocodrilo”. Entre los zapotecos el lagarto era el símbolo de la tierra, por lo que Zaachila significaría “Primera hija de la tierra”.",
+    "relevanciaCultural": "La zona arqueológica de Zaachila (1200 y 1521 d. C.) fue una ciudad-estado, y una de las pocas capitales mixteco-zapotecas todavía habitadas a la llegada de los españoles",
+    "estado": "Oaxaca",
+    "abierto": true,
+    "coordenadas": [16.952381648837648, -96.74902759005609],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3816.4538384525144!2d-96.75164542597537!3d16.952212315198103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c73d7d63b2f98d%3A0xca7a7cfea43a193a!2sZona%20Arqueol%C3%B3gica%20de%20Zaachila!5e0!3m2!1ses-419!2smx!4v1699064458211!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Zaachila_Panorama.JPG/800px-Zaachila_Panorama.JPG"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Cerro de las Trincheras",
+    "significado": "A la llegada del Padre FranciscoKino al valle del Magdalena, acompañado del capitán Mateo Manje,vieron las terrazas del Cerro de Trincheras, y bajo el concepto militar, el acompañante de Kino, mencionó que se trataban de trincheras de uso bélico. Desde aquel momento se le conoce como Cerro de Trincheras.",
+    "relevanciaCultural":"Cerro de Trincheras fue un pueblo prehispánico de primer orden y un centro regional tan importante como Paquimé (Chihuahua). Entre sus elementos arquitectónicos destacan las cerca de 900 terrazas que alberga y estructuras como la Cancha, el Caracol y el Mirador. Como resultado de las investigaciones en Cerro de Trincheras, es probable que muy pronto el sitio se abra al público.",
+    "estado": "Sonora",
+    "abierto": true,
+    "coordenadas": [30.391720837179804, -111.53461613939938],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13766.380759712954!2d-111.54474416033304!3d30.390850905419928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86d24905569558d1%3A0x4a7e0aa671e6e603!2sCerro%20Las%20Trincheras!5e0!3m2!1ses-419!2smx!4v1699064885344!5m2!1ses-419!2smx",
+    "foto": "https://arqueologiamexicana.mx/sites/default/files/styles/arq1200x600/public/imagenes_internet_97_p54.jpg?itok=Qa61S-6w"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Tamohi",
+    "significado": "El consuelo",
+    "relevanciaCultural":"Tamohi es una ciudad prehispánica de la Huasteca potosina en la que se conjuntan la belleza del paisaje y los logros culturales. Además de palacios y edificios, en el sitio se encuentran altares ornamentados con extraordinarias pinturas murales, en las cuales los antiguos habitantes plasmaron parte de su pensamiento simbólico.",
+    "estado": "San Luis Potosí",
+    "abierto": true,
+    "coordenadas": [21.953069694309622, -98.74964987457332],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3700.522122976997!2d-98.75231062583555!3d21.952915455399413!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d6412b14400277%3A0x2a3bedfd4ceaefbb!2sZona%20Arqueol%C3%B3gica%20Tamohi%20(El%20Consuelo)!5e0!3m2!1ses-419!2smx!4v1699065289719!5m2!1ses-419!2smx",
+    "foto": "https://sic.cultura.gob.mx/images/28112"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Tamtoc",
+    "significado": "Aunque es un sitio que se conoce desde la década de los 40´s., es hasta 1993 que se menciona con el nombre oficial de Tamtoc. El registro lo realiza el arqueólogo Patricio Dávila Cabrera el 10 de agosto de 1995 con información recuperada por bibliografía, fotointerpretación e informantes.",
+    "relevanciaCultural":"Con una extensión de cerca de 210 hectáreas, se puede asegurar que Tamtoc fue uno de los centros urbanos huastecos más importantes del último periodo prehispánico por sus dimensiones y características. Su desarrollo duró pocos siglos antes de que los españoles llegaran, hasta su repentino abandono en el siglo xvi. Se localiza en la ribera noreste del río Tampaón, parte del sistema hidráulico del río Pánuco.",
+    "estado": "San Luis Potosí",
+    "abierto": true,
+    "coordenadas": [21.92342094480926, -98.8139324494388],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3701.2906229227824!2d-98.81645372583648!3d21.923376156454143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d647bcf502106f%3A0x2999295033552027!2sZona%20Arqueol%C3%B3gica%20de%20Tamtoc!5e0!3m2!1ses-419!2smx!4v1699065513875!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tamtoc_-_panoramio.jpg/1024px-Tamtoc_-_panoramio.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Alta Vista Chalchihuites",
+    "significado": "El nombre de esta zona arqueológica, proviene de su descubrimiento en los terrenos de un antiguo rancho denominado Alta Vista o Buena Vista, muy cerca del poblado minero Chalchihuites, esta última palabra es un vocablo de origen náhuatl Chalchihuitl que significa piedra verde.",
+    "relevanciaCultural":"Altavista, o Chalchihuites, es una importante zona arqueológica cerca del municipio de Chalchihuites, en el estado de Zacatecas, México. Se localiza a 229 kilómetros al norte-noroeste de la ciudad de Zacatecas. Se ubica al oeste del cerro Sombrerete en la esquina noroeste del estado de Durango.",
+    "estado": "Zacatecas",
+    "abierto": true,
+    "coordenadas": [23.477190904405568, -103.94473014753717],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.538185087352!2d-103.947326525785!3d23.47711709921506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869c9fbb0b8388e7%3A0x7933ed1cb1ef2d69!2sZona%20Arqueol%C3%B3gica%20Altavista%20Chalchihuites!5e0!3m2!1ses-419!2smx!4v1699066390237!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Chalchihuites.jpg/250px-Chalchihuites.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Cerro de las Ventanas",
+    "significado": "La Zona Arqueológica Cerro de las Ventanas debe su nombre a un muro de mampostería de manufactura prehispánica, el cual tiene orificios que semejan ventanas. Se construyó sobre el frente de roca en la peña más alta del cerro, y se aprecia desde el valle."",
+    "relevanciaCultural":"Las Ventanas es un sitio arqueológico ubicado en el estado mexicano de Zacatecas. Se le denominó de esta manera debido a causa de que el complejo estructural más importante en la zona cuenta con unas cavernas con observatorios parecidos a "ventanas". Se encuentra en un acantilado. ",
+    "estado": "Zacatecas",
+    "abierto": true,
+    "coordenadas": [22.748778410203847, -102.58380577639748],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3679.4502908131744!2d-102.58639142580958!3d22.748664626496485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86824e508d0c6d59%3A0x5eb3b49e8694232e!2sCerro%20de%20Las%20Ventanas%2C%20Zona%20A%2C%2098085%20Zacatecas%2C%20Zac.!5e0!3m2!1ses-419!2smx!4v1699066629552!5m2!1ses-419!2smx",
+    "foto": "https://i0.wp.com/conexstur.com/wp-content/uploads/Conexstur-tour-operator-mexico-zacatecas-archeological-cerro-ventanas-.jpg?fit=650%2C487&ssl=1"
+  },
+
+  {
+    "id": 1,
+    "nombre": "La Quemada",
+    "significado": "El término hace referencia a los restos quemados encontrados en el lugar al extraer piedra para la construcción de la hacienda.",
+    "relevanciaCultural":"Dada la distancia existente entre La Quemada y el centro de Mesoamérica, la zona arqueológica ha sido objeto de distintas interpretaciones por parte de historiadores y arqueólogos, quienes han intentado correlacionarla con distintas culturas.",
+    "estado": "Zacatecas",
+    "abierto": true,
+    "coordenadas": [22.456335862970448, -102.8207826610642],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3687.2770238328!2d-102.82341122581923!3d22.456221837227794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86828a96c9c6b93f%3A0x94058a0ae08c723a!2sLa%20Quemada!5e0!3m2!1ses-419!2smx!4v1699066881574!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Votive_Pyramid_La_Quemada.JPG/800px-Votive_Pyramid_La_Quemada.JPG"
+  },
+
+  {
+    "id": 1,
+    "nombre": "El cerrito",
+    "significado": "“Su nombre proviene de la identificación del sitio con su principal estructura, un basamento piramidal de 30 metros de altura. A lo largo del período novohispano recibió varios nombres. Es muy probable que los habitantes otomíes y chichimecas del valle de Querétaro hacia fines del siglo XVI, hayan llamado al sitio San Francisco Anbanica (Que quiere decir “templo alto” en otomí). Hacia finales del siglo XVIII fue nombrado como “el Cerrito de Cascajo”. Por otro lado, en algunas fotografías de principios de siglo XVIII (ubicadas en la fototeca del INAH), llevan como leyenda el nombre de “el Cerrito Pelón”. En la asignación de su nombre también habrá que considerar los derrumbes en las caras del basamento piramidal, los cuales dejaron expuesto su núcleo de tierra y piedra, sobre el cual creció la vegetación, dándole por muchos años el aspecto natural de un cerrito. Actualmente recibe el nombre popular de la Pirámide del Pueblito.",
+    "relevanciaCultural":"el crecimiento de maleza sobre ella también contribuyó al deterioro ya que acumulaba humedad y permitía que, esta se alojara en el material original de construcción. Se le conoce además como la pirámide de El Pueblito",
+    "estado": "Querétaro",
+    "abierto": true,
+    "coordenadas": [20.554543401427352, -100.44086834766948],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59774.47215274065!2d-100.51227947832031!3d20.551087600000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d34f889c31c0c1%3A0xcc3d22d0d46e46b1!2sZona%20Arqueol%C3%B3gica%20y%20Museo%20de%20Sitio%20El%20Cerrito!5e0!3m2!1ses-419!2smx!4v1699067649324!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Piramide_de_El_pueblito.jpg/250px-Piramide_de_El_pueblito.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Las Ranas",
+    "significado": "El poblado cerca del cual se asienta la zona arqueológica, cuya fundación data de 1622, fue denominado San Nicolás Tolentino en el Paraje de las Ranas, razón por la que el sitio recibió el nombre de “Ranas” asignado por Bartolomé Ballesteros en 1872.",
+    "relevanciaCultural":"Esta zona arqueológica es de suma importancia y se encuentra enclavada al suroeste de la sierra gorda sitio donde hubo un desarrollo cultural durante la época prehispánica, Ranas fue construido de manera estratégica que le permitía controlar los accesos.",
+    "estado": "Querétaro",
+    "abierto": true,
+    "coordenadas": [20.956832789695916, -99.55715111136576],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d477604.2879409458!2d-100.30147481930324!3d20.73930036795627!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d4735e68972b25%3A0xafe8f0eca2708190!2sZona%20Arqueol%C3%B3gica%20Ranas!5e0!3m2!1ses-419!2smx!4v1699068053752!5m2!1ses-419!2smx",
+    "foto": "https://sic.cultura.gob.mx/images/28000"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Tancama",
+    "significado": "El nombre Tancama proviene de la lengua huasteca y significa en español colina de fuego. 1​ Este sitio tiene un valor clave para la comprensión de la cultura Huasteca, entre otras que originalmente habitaron el lugar. El sitio está abierto al público desde 2011.",
+    "relevanciaCultural":"El sitio alcanzó su apogeo máximo entre los años 700 al 900 de nuestra era; existiendo indicios de una ocupación de la zona que data desde el año 200 a. C. Una de las razones que se teorizan para la ocupación de este lugar es la calidad del suelo para la explotación agrícola y la variedad de recursos naturales de la zona.",
+    "estado": "Queretaro",
+    "abierto": false,
+    "coordenadas": [21.172146161585683, -99.42192187622896],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14882.06051943299!2d-99.43252196593495!3d21.171685947706877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d4165a01f05b8f%3A0x9e222b790ef5be80!2s76347%20Tanc%C3%A1ma%2C%20Qro.!5e0!3m2!1ses-419!2smx!4v1699068610881!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tancama.JPG/220px-Tancama.JPG"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Toluquilla",
+    "significado": "Toluquilla es un vocablo híbrido, que proviene de la raíz náhuatl tolloa que describe la acción de jorobarse y la partícula castellana illa, lo que tendría un significado equivalente a “Cerro Jorobado” o “Jorobadillo”.",
+    "relevanciaCultural":"Muy posiblemente Toluquilla estuvo relacionada con el vecino sitio de Ranas; los estudios indican que permaneció ocupada desde el año 300 d.C. hasta alrededor del 1300 de nuestra era.",
+    "estado": "Queretaro",
+    "abierto": false,
+    "coordenadas": [20.883859516246023, -99.53093667116426],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3727.7122842025497!2d-99.5309474!3d20.883644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d40b2451da5427%3A0x3731058d1ca01639!2sZona%20Arqueol%C3%B3gica%20de%20Toluquilla!5e0!3m2!1ses-419!2smx!4v1699068928476!5m2!1ses-419!2smx",
+    "foto": "https://www.mexicodesconocido.com.mx/sites/default/files/nodes/2018/toluquilla-queretaro.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Cacaxtla",
+    "significado": "Xochitécatl es un gentilicio que significa el habitante o el nativo de Xochitlan, mientras que otra traducción podría ser “Lugar del Linaje de las Flores”. Cacaxtla se deriva del vocablo Cacaxtli, que literalmente significa “Lugar de Cacaxtles”, siendo estas unas armazones indígenas empleadas para transportar productos.",
+    "relevanciaCultural":" El sitio destaca por el buen estado en el que se han conservado sus murales. Los murales de Cacaxtla fueron elaborados con minerales de procedencia local, cal para el blanco, carbón para el negro, hematita para el rojo, goethita para el amarillo. ",
+    "estado": "Tlaxcala",
+    "abierto": true,
+    "coordenadas": [19.240538559175736, -98.3357497381469],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3766.9518862768023!2d-98.33844267591633!3d19.24092854677631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfd0f0f011e139%3A0x1eb85e5123ddc4af!2sZona%20Arqueol%C3%B3gica%20de%20Cacaxtla!5e0!3m2!1ses-419!2smx!4v1699069265720!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Cacaxtla1.jpg/1280px-Cacaxtla1.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Ocotelulco",
+    "significado": "Ocotelulco es palabra náhuatl y significa “en el altozano del pino” o “en el lugar de las bolitas de ocote”. Fray Toribio de Motolinía le atribuye por significado “en el barrio del pino”.",
+    "relevanciaCultural":"La zona arqueológica de Ocotelulco fue explorada profesionalmente en los años 1990, durante las exploraciones hechas por el Instituto Nacional de Antropología e Historia (INAH) se encontró un teocalli, una escalinata estucada y los restos de otra más destruida a raíz de la colonización española.",
+    "estado": "Tlaxcala",
+    "abierto": false,
+    "coordenadas": [19.329603683433547, -98.23597957650179],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.9181976459236!2d-98.23856522591387!3d19.329355643972132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfd9269e8d5619%3A0xdd19bf0e334ec5b!2sZona%20Arqueol%C3%B3gica%20Ocotelulco!5e0!3m2!1ses-419!2smx!4v1699069605109!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ocotelulco_3.JPG"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Tizatlan",
+    "significado": "Tizatlán proviene del náhuatl y significa “lugar de la tiza”, nombre con el que se ha conocido al sitio desde su fundación (siglo XIII) por un grupo de teochichimecas, el cual se desprende del Señorío (Altepetl) de Ocotelulco.",
+    "relevanciaCultural":"",
+    "estado": "Tlaxcala",
+    "abierto": false,
+    "coordenadas": [19.338189117192684, -98.2183721323229],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.7207346310192!2d-98.22101142591367!3d19.337920843699887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfdf2a5a8a4de1%3A0xe1fd556ad78be88e!2sZona%20Arqueologica%20de%20Tizatlan!5e0!3m2!1ses-419!2smx!4v1699069799916!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zona_Arqueologica_de_Tizatlan_Tlaxcala.jpg/1024px-Zona_Arqueologica_de_Tizatlan_Tlaxcala.jpg"
+  },
+
+  {
+    "id": 1,
+    "nombre": "Tecoaque",
+    "significado": "Tecoaque proviene del vocablo náhuatl cuyo significado ha sido interpretado como “lugar en donde se comieron a los señores o dioses”. De acuerdo con las fuentes históricas, antes de la conquista española el sitio era llamado Zultepec, por lo que, en el año 2001, el Dr. Enrique Martínez Vargas propuso el cambio de nombre de “Tecoaque” a “Zultepec”.",
+    "relevanciaCultural":"La zona fue agregada a la lista indicativa del Patrimonio Mundial de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) el 6 de diciembre de 2004 en la categoría Cultural.",
+    "estado": "Tlaxcala",
+    "abierto": true,
+    "coordenadas": [19.58551282745025, -98.62447511882311],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3758.980503504351!2d-98.62708222590668!3d19.58533593578763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1cfb0f8c75eb9%3A0xbc0573a8e54dc755!2sZona%20Arqueol%C3%B3gica%20de%20Tecoaque%20-%20Sultepec!5e0!3m2!1ses-419!2smx!4v1699069980917!5m2!1ses-419!2smx",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Tecoaque1.jpg"
+  },
 ]
