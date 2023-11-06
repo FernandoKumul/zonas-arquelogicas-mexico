@@ -12,7 +12,7 @@
   },
   
   {
-    "id": 1,
+    "id": 2,
     "nombre": "San Francisco de la Sierra",
     "significado": "El topónimo de esta Sierra se relaciona con el nombre de un “Pueblo de Visita”, pequeña capilla temporal fundada en la parte más alta de estas montañas y que estaba bajo la jurisdicción de la Misión Jesuita de San Ignacio Kadakamaang.",
     "relevanciaCultural": "La importancia de la Sierra de San Francisco radica en las numerosas pinturas rupestres del estilo “Gran Mural” que concentra, especialmente en 12 espectaculares cañones intermontanos.  Gracias a la naturaleza geológica de las montañas y al clima seco, su estado de conservación es muy bueno, encontrándose a veces enormes paneles con cientos y aun miles de figuras pintadas en vivos colores.",
@@ -24,7 +24,7 @@
   },
   
   {
-    "id": 1,
+    "id": 3,
     "nombre": "Balamkú",
     "significado": "El nombre del sitio deriva de las palabras mayas Balam (jaguar) y Kú (templo), significando “Templo del Jaguar”. Dicho nombre alude a uno de los jaguares plasmados en el friso de estuco modelado y policromado que corona la Sub-estructura I-A del Grupo Central, que caracteriza a esta ciudad prehispánica.",
     "relevanciaCultural": "Balamkú se encuentra un friso de estuco modelado y pintado único en el área maya, que fue elaborado entre 550 y 600 d. C. En el friso se aprecian 4 escenas de ascensión alternadas con tres jaguares. Cada una comprende un animal con la cabeza volteada hacia atrás, sentado en la hendidura frontal de un mascarón del Monstruo de la Tierra; su boca, da paso a un rey sobre su trono. Además de ilustrar en detalle los aspectos opuestos y complementarios del inframundo, el conjunto muestra que el ciclo dinástico es equiparado al ciclo solar.",
@@ -36,7 +36,7 @@
   },
   
   {
-    "id": 1,
+    "id": 4,
     "nombre": "Becán",
     "significado": "La existencia de un foso que rodea el área nuclear de Becán determinó su nombre, que en maya yucateco significa “Camino o cavidad dejada por el correr del agua”, nombre que hace referencia al rasgo más notable del sitio: un foso que rodea los principales conjuntos arquitectónicos comprendidos por los edificios más voluminosos y elevados del sitio.",
     "relevanciaCultural": "Ubicada en el Estado de Campeche en la región conocida como Río Bec. Esta región se caracteriza por presentar en su arquitectura grandes paneles en damero o tablero de ajedrez, además de altas y angostas torres a los lados de los templos principales. Estas torres tienen escalinatas y templos aparentes, los vanos de estos últimos están simulados con nichos. Sin embargo en la lejanía las torres parecen ser espacios totalmente útiles y no solo un elemento decorativo. Becán es un sitio de singular importancia al estar rodeado por un foso artificial que para algunos investigadores es evidencia de la elevada actividad bélica entre este y otros sitios vecinos.",
@@ -48,7 +48,7 @@
   },
   
   {
-    "id": 1,
+    "id": 5,
     "nombre": "Calakmul",
     "significado": "Calakmul significa en maya “Dos Montículos Adyacentes” (Ca dos, Lak adyacentes, Mul montículo artificial o pirámide), nombre que hace referencia a las dos grandes estructuras que dominan la selva.",
     "relevanciaCultural": "Calakmul fue descubierta a principios de la década de los 30 del siglo pasado, pero es hasta la década de los 80 que las investigaciones sistemáticas permiten descubrir la esencia de esta ciudad como una de las más importantes del Clásico Maya. Las investigaciones más recientes han concluido que Calakmul es la ciudad más importante del Clásico Maya y junto con Tikal y Palenque encabezaban la organización política de las tierras altas. Los estudios jeroglíficos han dado cuenta de una historia de guerras entre Calakmul y Tikal por casi un siglo de historia, lo que habla de la rivalidad política de estas ciudades. ",
@@ -60,7 +60,7 @@
   },
   
   {
-    "id": 1,
+    "id": 6,
     "nombre": "Chunhuhub",
     "significado": " Chunhuhub significa en maya “tronco del árbol pinus caribea”, conocido en la región como “Huhub”",
     "relevanciaCultural": " Chunhuhub (“Raíz del ‘Árbol’ Hubub”). La ocupación más temprana del sitio corresponde al Clásico Tardío, entre 600 y 800 d.C., aunque su apogeo fue durante el Clásico Terminal, entre 800 y 1000 d.C. Perteneciente al estilo arquitectónico Puuc; los edificios del sitio se caracterizan por combinar armónicamente sectores claros y oscuros en sus fachadas. La calidad de la mampostería ha perdurado por diez siglos y sus construcciones están recubiertas con sillares bien cortados y ensamblados. El Palacio (Estructura I) consta de dos niveles con 13 aposentos abovedados.",
@@ -72,7 +72,7 @@
   },
   
   {
-    "id": 1,
+    "id": 7,
     "nombre": "Chicanná",
     "significado": " El ingeniero Jack Eaton, refiriéndose a la Estructura II, que tiene en su fachada oeste un gran mascarón que representa al Monstruo de la Tierra.",
     "relevanciaCultural": " Chicanná es el sitio que cuenta con el mayor número de edificios tipo “Río Bec” en buen estado de conservación. Los paneles de mascarones que tienen las Estructuras I, VI y XX, son buenos ejemplos de la iconografía regional y muestran la evolución de las representaciones del Monstruo de la Tierra; por otro lado, el análisis de los materiales arqueológicos de Chicanná hacen que sea posible la interpretación sobre las relaciones existentes entre la antigua ciudad de Becán y este centro periférico tan cercano a la metrópoli regional. El abandono del asentamiento está estrechamente ligado a la caída de Becán, en los inicios del siglo XIII, del cual fue dependiente durante todo su desarrollo. Cronología: 300 a. C. a 1100 d.C. Ubicación cronológica principal: Clásico Tardío, 500 a 700 d.C.",
@@ -84,7 +84,7 @@
   },
   
   {
-    "id": 1,
+    "id": 8,
     "nombre": "Dzibilnocac",
     "significado": " Dzibilnocac es un nombre maya que significa “Bóveda pintada o bóveda con escritura”.",
     "relevanciaCultural": " El topónimo del sitio es de origen maya yucateco, que se traduce al castellano como “bóveda pintada” o bóveda con escritura”, en alusión a las figuras e inscripciones jeroglíficas que decoraban el interior de algún cuarto. En el 2011 se realizó la exploración y restauración del lado sur de la Torre Central incluyendo el cuarto sur de su edificio superior y también se hicieron trabajos de mantenimiento en el templo superior de la Torre Oeste. En el 2013, con la exploración y restauración de la Torre Este se expone prácticamente toda la majestuosa arquitectura del Edificio A-1, incluso, se restaura una estructura circular en la plaza central del sitio.",
@@ -96,7 +96,7 @@
   },
   
   {
-    "id": 1,
+    "id": 9,
     "nombre": "Edzná",
     "significado": " Itzá es el nombre de un linaje de origen chontal que se estableció en el sitio. Por extensión, los pobladores de otros asentamientos se referían a los habitantes de esta antigua ciudad maya como “Itzáes”; de aquí proviene su nombre: Ytzná / Edzná: “Casa de los Itzáes”.",
     "relevanciaCultural": " El asentamiento precolombino tuvo una extensión promedio de 25 km². Las primeras evidencias de presencia humana datan del año 600 a. C. Una pequeña comunidad creció, se desarrolló y conformó, poco antes del inicio de nuestra era, un gobierno centralizado. l desarrollo del sitio llevó luego a crear edificios con otros estilos arquitectónicos como Chenes, Puuc y Tardíos. De modo que en Edzná encontramos una larga secuencia de construcciones a lo largo de poco más de 15 siglos.",
@@ -108,7 +108,7 @@
   },
   
   {
-    "id": 1,
+    "id": 10,
     "nombre": "El Tigre",
     "significado": " El Tigre ha sido identificado por diversos autores como el Itzamkanac de las fuentes históricas. El nombre con el que se le conoce actualmente corresponde al del ejido en el que se encuentra. Acalán, o “Lugar de Canoas”, es el nombre con el que se conocía a la provincia prehispánica del grupo maya chontal asentado a orillas del Río Candelaria.",
     "relevanciaCultural": " Debido a lo imponente de las construcciones y la extensión de la zona, se piensa que El Tigre corresponde al Itzamkanac de las fuentes históricas, capital de los acalanes y lugar donde Hernán Cortés asesinó a Cuauhtémoc. Una de las plazas está rodeada por basamentos piramidales y mascarones antropomorfos del Preclásico. El asentamiento cuenta con varios estilos arquitectónicos: Petén, Río Bec y Tardío.",
