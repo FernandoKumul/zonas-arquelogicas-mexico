@@ -1,0 +1,43 @@
+:root {
+    --ut-color: #00AB84
+}
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 500;
+    color: #1E1E1E;
+    min-height: 100vh;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 20px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.logo img {
+    width: 30px;
+}
+
+nav a {
+    color: #ffffff;
+}
+
+.logo span {
+    font-family: 'Alike', serif;
+    font-size: 16px;
+    color: #ffffff;
+}
