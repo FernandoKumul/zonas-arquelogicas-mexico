@@ -3,29 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./styles/zona.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Alike&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles/zona.css">
     <title>Mex</title>
 </head>
-<body id="info-zone">
-    <h1 id="name">...</h1>
-    <div id="container-photo">
-        foto aqui
-    </div>
-    <h4 id="state">Estado</h4>
-    <p id="access">Acceso</p>
-    <h3>Significado</h3>
-    <p id="meaning">...</p>
+<body>
+    <nav>
+        <a href="/" class="logo">
+            <img src="./assets/logo-za.png" alt="logo">
+            <span>ArqueoMex</span>
+        </a class="link">
+        <a href="./catalogo.html">Catálogo</a>
+    </nav>
 
-    <h3>Relevancia cultural</h3>
-    <div id="culture"></div>
+    <section id="info-zone">
+        <h1 id="name">...</h1>
+        <div id="container-photo">
+            foto aqui
+        </div>
+        <h4 id="state">Estado</h4>
+        <p id="access">Acceso</p>
+        <h3>Significado</h3>
+        <p id="meaning">...</p>
+    
+        <h3>Relevancia cultural</h3>
+        <div id="culture"></div>
+    
+        <h3>Ubicación</h3>
+        <p id="coordinates">...</p>
+        <div id="map"></div>
+    </section>
 
-    <h3>Ubicación</h3>
-    <p id="coordinates">...</p>
-    <div id="map"></div>
 
     <script type="module" src="./scripts/generate-zones.js"></script>
 </body>
