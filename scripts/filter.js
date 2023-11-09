@@ -8,6 +8,10 @@ refSelect.addEventListener('change', generateCards)
 
 document.addEventListener('DOMContentLoaded', generateCards);
 
+window.addEventListener('load', () => {
+    refSelect.value = ""
+})
+
 function generateCards () {
     const state = refSelect.value
     let countZones = 0
