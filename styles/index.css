@@ -41,3 +41,81 @@ nav a {
     font-size: 16px;
     color: #ffffff;
 }
+
+.hero{
+    background-image: url(/assets/hero.png);
+    height: 60vh; /* El alto de la imagen que quieras */
+    background-size: cover;
+    background-position: center center;
+}
+
+.hero-container{
+    color: #ffffff;
+    margin-top: 46px;
+}
+
+.hero-container h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Alike', serif;
+    font-weight: 100;
+    margin-bottom: 15px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.h2-container h2{
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+    font-weight: 100;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.h2-container{
+    margin-top: 31px;
+    margin-bottom: 30px;
+}
+
+.hero-container a{
+    background-color: var(--ut-color);
+    height: 36px;
+    width: 160px;
+    margin: 49px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    color: #ffffff;
+    font-size: 16px;
+    outline:none;
+}
+
+.hero-container a:hover{
+    background-color: #007A5F;
+}
+
+@media (max-width: 357px) {
+
+    .hero-container a{
+        margin: auto;
+    }
+
+}
+
+h3 {
+    margin: 30px 0px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.footer{
+    background-color: #00AB84;
+    padding: 20px;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    font-weight: 100;
+}
