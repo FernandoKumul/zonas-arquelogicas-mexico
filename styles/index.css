@@ -44,13 +44,14 @@ nav a {
 
 .hero{
     background-image: url(/assets/hero.png);
-    height: 50vh; /* El alto de la imagen que quieras */
+    height: 60vh; /* El alto de la imagen que quieras */
     background-size: cover;
     background-position: center center;
 }
 
 .hero-container{
     color: #ffffff;
+    margin-top: 46px;
 }
 
 .hero-container h1{
