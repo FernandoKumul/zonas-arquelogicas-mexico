@@ -45,5 +45,94 @@ nav a {
 
 
 .img-zone {
-    width: 100%;
+    width: 500px;
+    height: 450px;
+    align-items: center;
 }
+
+.exit-button {
+    background-color: #1E9771;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    position: fixed; /* Fija el botón en la esquina superior izquierda */
+    top: 50px; /* Ajusta la distancia desde la parte superior */
+    right: 20px;
+    z-index: 1000; /* Asegura que el botón esté en la parte superior de otros elementos */
+    border-radius: 20px; /* Hace que el botón sea circular */
+    font-size: 20px; /* Tamaño del icono */
+    line-height: 1; /* Alinea verticalmente el icono */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Estilos para el icono */
+.exit-button i {
+    margin-right: 5px; /* Espacio entre el icono y el texto */
+}
+
+.exit-button:hover {
+    background-color: #070707;
+}
+
+#info-card {
+    flex: 1; /* Toma el 100% del ancho disponible */
+    padding: 20px; /* Añade espacio interno a la tarjeta */
+    border: 1px solid #ccc; /* Borde con color gris */
+    border-radius: 10px; /* Suaviza los bordes con un radio de 10px */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Añade una sombra sutil */
+}
+
+
+#info-zone {
+    display: flex;
+    flex-direction: row; /* Alinea los elementos en una fila en pantallas grandes */
+    margin: 20px;
+}
+
+#container-photo {
+    flex: 1; /* Toma el 100% del ancho disponible */
+    margin-right: 20px; /* Añade espacio entre container-photo y el contenido a la derecha */
+}
+
+#info-card {
+    flex: 1; /* Toma el 100% del ancho disponible */
+    padding: 20px; /* Añade espacio interno a la tarjeta */
+    border: 1px solid #ccc; /* Borde con color gris */
+    border-radius: 10px; /* Suaviza los bordes con un radio de 10px */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Añade una sombra sutil */
+}
+
+/* Reglas de medios para ajustar el diseño en pantallas más pequeñas */
+@media (max-width: 768px) {
+    #info-zone {
+        flex-direction: column; /* Alinea los elementos en una columna en pantallas más pequeñas */
+    }
+
+    #container-photo {
+        flex: 100%; /* Toma el 100% del ancho en pantallas más pequeñas */
+        margin-right: 0; /* Elimina el espacio entre container-photo y el contenido en pantallas más pequeñas */
+        margin-bottom: 20px; /* Añade espacio entre la foto y el contenido a continuación en pantallas más pequeñas */
+    }
+
+    #info-card {
+        flex: 100%; /* Toma el 100% del ancho en pantallas más pequeñas */
+    }
+}
+
+.location-card {
+    flex: 1; /* Toma el 100% del ancho disponible */
+    padding: 20px; /* Añade espacio interno a la tarjeta */
+    border: 1px solid #ccc; /* Borde con color gris */
+    border-radius: 10px; /* Suaviza los bordes con un radio de 10px */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Añade una sombra sutil */
+    margin-top: 20px; /* Añade espacio entre la tarjeta y la sección de ubicación */
+    margin-left: 20px;
+    margin-right: 700px;
+}
+
+/* Puedes ajustar los estilos según tus preferencias y requisitos específicos */
+

@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Alike&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./styles/index.css">
-    <title>Mex</title>
+    <title>ArquoMex</title>
 </head>
 <body>
 
@@ -32,27 +32,71 @@
         </div>
     </div>
 
-    <div class="slider">
+        <div class="slider">
         <h3>Zonas arqueológicas más populares</h3>
-        （＾∀＾●）ﾉｼ
-    </div>
 
-    <footer>
-        <div class="footer">
-            <div class="team">
-                <p>Equipo:</p>
-                <p>Kumul Herrera Jose Ferando</p>
-                <p>Mendez Torres Odalys</p>
-                <p>Morales García Ana Teresa</p>
-                <p>Moo Estrella Wilberth Alejandro</p>
-            </div>
-            <div class="group">
-                <p>IDYGS73</p>
-                (￣y▽￣)╭ Ohohoho.....
-            </div>
+        <div class="slider-container">
+            <div class="slide"> <h3>Chichén Itzá</h3><img src="IMG/chichen-itza-arquitectura-que-visitar.webp" alt="Chichén Itzá"></div>
+            <div class="slide"><h3>Teotihuacán</h3><img src="IMG/teotihuacan-pueblos-magicos-foto-mundukos.jpg" alt="Teotihuacán"></div>
+            <div class="slide"><h3>Palenque</h3><img src="IMG/Palenque.jpg" alt="Palenque"></div>
+            <div class="slide"><h3> Uxmal </h3><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Uxmal_Yucatan_Mexico.JPG" alt="Uxmal"></div>
+            <div class="slide"><h3>Monte Albán</h3><img src="IMG/1024px-Borrala.jpg" alt="Monte Albán"></div>
+            <div class="slide"><h3>Calakmul</h3><img src="IMG/226_A_000.jpg" alt="Calakmul"></div>
+            <div class="slide"><h3>Templo Mayor</h3><img src="IMG/Recinto_Templo_Mayor.jpg" alt="Palenque"></div>
+            <div class="slide"><h3>Tajín</h3><img src="IMG/Ruins_of_El_Tajín_30.jpg" alt="tajin"></div>
+            <div class="slide"><h3>Paquimé</h3><img src="IMG/zona-arqueologica-paquime-chihuahua.jpg" alt="Paquime"></div>
+            <div class="slide"><h3>Bonampak</h3><img src="IMG/93e0e956_23062020_0501.jpg" alt="Bonampak"></div>
 
         </div>
-    </footer>
+        <div class="arrow left" onclick="prevSlide()">&#10094;</div>
+        <div class="arrow right" onclick="nextSlide()">&#10095;</div>
+      
+    </div>
+
+    
+
+  
+    <script>
+        let currentIndex = 0;
+        const totalSlides = document.querySelectorAll('.slide').length;
+        const container = document.querySelector('.slider-container');
+    
+        function showSlide(index) {
+            currentIndex = index;
+            const translateValue = -index * 100 + '%';
+            container.style.transform = 'translateX(' + translateValue + ')';
+        }
+    
+        function nextSlide() {
+            currentIndex = (currentIndex + 1) % totalSlides;
+            showSlide(currentIndex);
+        }
+    
+        function prevSlide() {
+            currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+            showSlide(currentIndex);
+
+        }
+        </script>
+
+        <footer>
+            <div class="footer">
+                <div class="team">
+                    <p>Equipo:</p>
+                    <p>Kumul Herrera Jose Ferando</p>
+                    <p>Mendez Torres Odalys</p>
+                    <p>Morales García Ana Teresa</p>
+                    <p>Moo Estrella Wilberth Alejandro</p>
+                </div>
+                <div class="group">
+                    <p>IDYGS73</p>
+                    (￣y▽￣)╭ Ohohoho.....
+                </div>
+    
+            </div>
+        </footer>
+    
 
 </body>
+
 </html>
