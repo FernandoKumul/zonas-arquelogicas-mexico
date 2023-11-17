@@ -120,7 +120,7 @@ nav a {
     left: 0;
     width: 0%;
     height: 100%;
-    background-color: darken(var(--ut-color), 15%);
+    background-color: #039472;
     transition: all .3s;
     border-radius: 10rem;
     z-index: -1;
