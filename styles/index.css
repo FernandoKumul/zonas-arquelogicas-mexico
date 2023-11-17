@@ -70,17 +70,15 @@ nav a {
     justify-content: center;
     font-size: 22px;
     font-weight: 100;
-    margin-bottom: 10px;
     text-align: center;
 }
+
 .h2-container{
-    margin-top: 31px;
-    margin-bottom: 30px;
+    margin: 30px 27px;
 }
 
-.hero-container a{
-    background-color: var(--ut-color);
-    height: 36px;
+.catalogo{
+    /* height: 36px;
     width: 160px;
     margin: 49px auto;
     display: flex;
@@ -89,33 +87,69 @@ nav a {
     border-radius: 6px;
     color: #ffffff;
     font-size: 16px;
-    outline:none;
+    outline:none; */
+
+    display: inline-block;
+    padding: .75rem 1.25rem;
+    border-radius: 10rem;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1rem;
+    letter-spacing: .15rem;
+    transition: all .3s;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
 }
 
-.hero-container a:hover{
-    background-color: #007A5F;
+.catalogo:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: var(--ut-color);
+    z-index: -2;
 }
 
-@media (max-width: 357px) {
+.catalogo:before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0%;
+    height: 100%;
+    background-color: #039472;
+    transition: all .3s;
+    border-radius: 10rem;
+    z-index: -1;
+}
 
-    .hero-container a{
-        margin: auto;
-    }
+.catalogo:hover{
+    /* background-color: #007A5F; */
+    color: #fff;
+}
 
+.catalogo:hover:before{
+    width: 100%;
 }
 
 h3 {
-    margin-bottom: 30px;
+    margin-bottom: 25px;
     text-align: center;
-    font-size: 24px;
-    font-weight: 500px;
+    font-size: 20px;
+    font-weight: 400px;
 }
 
-footer {
+.footer {
     background-color: var(--ut-color);
-    color: white;
     padding: 20px;
-    text-align: center;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    font-weight: 100;
 }
 
 
@@ -128,6 +162,15 @@ footer {
     position: relative;
     text-align: center;
     overflow: hidden;
+}
+
+.slider h2{
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+.slider a{
+    margin-top: 20px;
 }
 
 
@@ -173,3 +216,17 @@ footer {
 .arrow.right {
     right: 10px;
 }
+
+.center-button {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 30px;
+            font-size: 16px;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+        }
