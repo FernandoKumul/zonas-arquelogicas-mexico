@@ -45,10 +45,20 @@ nav a {
 
 
 .img-zone {
-    width: 500px;
-    height: 450px;
+    width: 100%;
     align-items: center;
+    border-radius: 10px;
 }
+
+.map {
+    width: 100%;
+}
+
+iframe {
+    width: 100%;
+
+}
+
 
 .exit-button {
     background-color: #1E9771;
@@ -57,82 +67,95 @@ nav a {
     padding: 10px 20px;
     cursor: pointer;
     transition: background-color 0.3s ease;
-    position: fixed; /* Fija el botón en la esquina superior izquierda */
-    top: 50px; /* Ajusta la distancia desde la parte superior */
+    position: fixed;
+    top: 50px; 
     right: 20px;
-    z-index: 1000; /* Asegura que el botón esté en la parte superior de otros elementos */
-    border-radius: 20px; /* Hace que el botón sea circular */
-    font-size: 20px; /* Tamaño del icono */
-    line-height: 1; /* Alinea verticalmente el icono */
+    z-index: 1000; 
+    border-radius: 20px; 
+    font-size: 20px; 
+    line-height: 1; 
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-/* Estilos para el icono */
+
 .exit-button i {
-    margin-right: 5px; /* Espacio entre el icono y el texto */
+    margin-right: 5px; 
 }
 
 .exit-button:hover {
     background-color: #070707;
 }
 
+#name {
+    font-size: 32px;
+}
+
 #info-card {
-    flex: 1; /* Toma el 100% del ancho disponible */
-    padding: 20px; /* Añade espacio interno a la tarjeta */
-    border: 1px solid #ccc; /* Borde con color gris */
-    border-radius: 10px; /* Suaviza los bordes con un radio de 10px */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Añade una sombra sutil */
+    flex: 1; 
+    padding: 20px; 
+    border: 1px solid #ccc; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    margin-bottom: 20px;
 }
 
 
 #info-zone {
     display: flex;
-    flex-direction: row; /* Alinea los elementos en una fila en pantallas grandes */
-    margin: 20px;
+    flex-direction: row; 
+    margin: 0 auto;
+    width: 90%;
+    margin-top: 20px;
+
 }
 
 #container-photo {
-    flex: 1; /* Toma el 100% del ancho disponible */
-    margin-right: 20px; /* Añade espacio entre container-photo y el contenido a la derecha */
+    flex: 2; 
+    margin-right: 20px; 
 }
 
 #info-card {
-    flex: 1; /* Toma el 100% del ancho disponible */
-    padding: 20px; /* Añade espacio interno a la tarjeta */
-    border: 1px solid #ccc; /* Borde con color gris */
-    border-radius: 10px; /* Suaviza los bordes con un radio de 10px */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Añade una sombra sutil */
+    flex: 3; 
+    padding: 20px; 
+    border: 1px solid #ccc; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
 }
 
-/* Reglas de medios para ajustar el diseño en pantallas más pequeñas */
+
+.location-card {
+    flex: 1; 
+    padding: 20px; 
+    border: 1px solid #ccc; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    width: 54%;
+    margin-left: auto;
+    margin-right: 5%;
+}
+
 @media (max-width: 768px) {
     #info-zone {
-        flex-direction: column; /* Alinea los elementos en una columna en pantallas más pequeñas */
+        flex-direction: column; 
     }
 
     #container-photo {
-        flex: 100%; /* Toma el 100% del ancho en pantallas más pequeñas */
-        margin-right: 0; /* Elimina el espacio entre container-photo y el contenido en pantallas más pequeñas */
-        margin-bottom: 20px; /* Añade espacio entre la foto y el contenido a continuación en pantallas más pequeñas */
+        flex: 90%; 
+        margin-right: 0; 
+        margin-bottom: 20px; 
     }
 
     #info-card {
-        flex: 100%; /* Toma el 100% del ancho en pantallas más pequeñas */
+        flex: 100%; 
+    }
+
+    .location-card {
+        width: 90%;
     }
 }
 
-.location-card {
-    flex: 1; /* Toma el 100% del ancho disponible */
-    padding: 20px; /* Añade espacio interno a la tarjeta */
-    border: 1px solid #ccc; /* Borde con color gris */
-    border-radius: 10px; /* Suaviza los bordes con un radio de 10px */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Añade una sombra sutil */
-    margin-top: 20px; /* Añade espacio entre la tarjeta y la sección de ubicación */
-    margin-left: 20px;
-    margin-right: 700px;
-}
 
-/* Puedes ajustar los estilos según tus preferencias y requisitos específicos */
+
 
