@@ -122,6 +122,10 @@ iframe {
     width: 100%;
 }
 
+.location-card {
+    width: 50%;
+}
+
 .info_part2{
     margin-bottom: 15px;
 }
@@ -146,6 +150,10 @@ iframe {
     }
 
     .state-location{
+        width: 100%;
+    }
+
+    .location-card {
         width: 100%;
     }
 
