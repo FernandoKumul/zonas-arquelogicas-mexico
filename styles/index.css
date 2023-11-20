@@ -78,24 +78,14 @@ nav a {
 }
 
 .catalogo{
-    /* height: 36px;
-    width: 160px;
-    margin: 49px auto;
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 160px;
+    margin: 49px auto;
+    height: 36px;
     border-radius: 6px;
-    color: #ffffff;
-    font-size: 16px;
-    outline:none; */
-
-    display: inline-block;
-    padding: .75rem 1.25rem;
-    border-radius: 10rem;
     color: #fff;
-    text-transform: uppercase;
-    font-size: 1rem;
-    letter-spacing: .15rem;
     transition: all .3s;
     position: relative;
     overflow: hidden;
@@ -122,12 +112,11 @@ nav a {
     height: 100%;
     background-color: #039472;
     transition: all .3s;
-    border-radius: 10rem;
+    border-radius: 6px;
     z-index: -1;
 }
 
 .catalogo:hover{
-    /* background-color: #007A5F; */
     color: #fff;
 }
 
@@ -144,12 +133,23 @@ h3 {
 
 .footer {
     background-color: var(--ut-color);
-    padding: 20px;
+    padding: 30px 47px 17px 47px;
     color: #ffffff;
     display: flex;
     justify-content: space-between;
     font-size: 16px;
     font-weight: 100;
+}
+
+.group{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.group a{
+    color: #ffffff;
 }
 
 

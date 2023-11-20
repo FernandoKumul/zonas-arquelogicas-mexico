@@ -101,7 +101,6 @@ iframe {
     margin-bottom: 20px;
 }
 
-
 #info-zone {
     display: flex;
     flex-direction: row; 
@@ -159,3 +158,23 @@ iframe {
 
 
 
+.footer {
+    background-color: var(--ut-color);
+    padding: 30px 47px 17px 47px;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+.group{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.group a{
+    color: #ffffff;
+}
