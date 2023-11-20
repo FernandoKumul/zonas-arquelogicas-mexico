@@ -86,7 +86,6 @@ nav a {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Añade una sombra sutil */
 }
 
-
 #info-zone {
     display: flex;
     flex-direction: row; /* Alinea los elementos en una fila en pantallas grandes */
@@ -136,3 +135,23 @@ nav a {
 
 /* Puedes ajustar los estilos según tus preferencias y requisitos específicos */
 
+.footer {
+    background-color: var(--ut-color);
+    padding: 30px 47px 17px 47px;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+.group{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.group a{
+    color: #ffffff;
+}
