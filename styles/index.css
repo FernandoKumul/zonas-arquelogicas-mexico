@@ -45,7 +45,7 @@ nav a {
 
 .hero{
     background-image: url(/assets/hero.png);
-    height: 60vh; /* El alto de la imagen que quieras */
+    height: 60vh;
     background-size: cover;
     background-position: center center;
 }
