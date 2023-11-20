@@ -86,7 +86,6 @@ nav a {
     height: 36px;
     border-radius: 6px;
     color: #fff;
-    letter-spacing: .15rem;
     transition: all .3s;
     position: relative;
     overflow: hidden;
@@ -118,7 +117,6 @@ nav a {
 }
 
 .catalogo:hover{
-    /* background-color: #007A5F; */
     color: #fff;
 }
 
@@ -135,12 +133,23 @@ h3 {
 
 .footer {
     background-color: var(--ut-color);
-    padding: 20px;
+    padding: 30px 47px 17px 47px;
     color: #ffffff;
     display: flex;
     justify-content: space-between;
     font-size: 16px;
     font-weight: 100;
+}
+
+.group{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.group a{
+    color: #ffffff;
 }
 
 
