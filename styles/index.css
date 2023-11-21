@@ -176,15 +176,12 @@ h3 {
 
 .slider-container {
     display: flex;
-    width: 100%;
-    height: 100%;
-    transition: transform 0.5s ease-in-out;
-    position: relative;
+    transition: transform 0.3s ease-in-out;
 }
 
 .slide {
-    min-width: 100%;
-    box-sizing:content-box
+    flex: 0 0 100%;
+    box-sizing:border-box;
 }
 
 .slide img {
