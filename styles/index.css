@@ -180,13 +180,13 @@ h3 {
 }
 
 .slide {
-    flex: 0 0 100%;
-    box-sizing:border-box;
+    flex-shrink: 0
 }
 
 .slide img {
     width: 200px;
     height: 200px;
+    border-radius: 6px;
 }
 
 .arrow {
