@@ -26,7 +26,13 @@ function generateItem(zone){
     name.innerText = zone.nombre
     photo.innerHTML = `<img class="img-zone" src=${zone.foto}>`
     state.innerText = zone.estado
-    access.innerText = zone.abierto ? "Abierto" : "Cerrado" 
+    access.innerText = zone.abierto ? "Abierto al público" : "Cerrado al público" 
+    if (zone.abierto) {
+        access.classList.add('open')
+    } else {
+        access.classList.add('close')
+    }
+
     meaning.innerText = zone.significado
     coordinates.innerHTML = zone.coordenadas
     map.innerHTML = `<iframe src="${zone.map}"
