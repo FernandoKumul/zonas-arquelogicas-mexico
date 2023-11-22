@@ -101,6 +101,7 @@ h3 {
 .card-item:hover{
     transform:scale(0.90);
     box-shadow: 2px 2px 10px #0000009b;
+    transition: all 0.4s;
 }
 
 .content-img {

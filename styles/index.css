@@ -166,11 +166,13 @@ h3 {
 .slide:hover h3{
     -webkit-transform:scale(2);
     transform:scale(1.40);
+    transition: all 0.4s;
 }
 
 .slide:hover img{
     -webkit-transform:scale(2);
     transform:scale(0.90);
+    transition: all 0.4s;
 }
 
 .slider {
