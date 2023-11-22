@@ -95,7 +95,12 @@ h3 {
     border-radius: 8px;
     min-height: 320px;
     border: 2px solid var(--ut-color);
-    box-shadow: 0px 0px 5px #0000002e
+    box-shadow: 0px 0px 5px #0000004c;
+}
+
+.card-item:hover{
+    transform:scale(0.90);
+    box-shadow: 2px 2px 10px #0000009b;
 }
 
 .content-img {
