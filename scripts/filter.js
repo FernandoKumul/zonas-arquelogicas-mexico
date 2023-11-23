@@ -17,7 +17,7 @@ function generateCards () {
     let countZones = 0
     let cardsZones = ""
     for (const zone of zones){
-        if (zone.estado.includes(state)) {
+        if (zone.estado === state || state === "") {
             countZones++
             cardsZones += `        
             <div class="card-item">
