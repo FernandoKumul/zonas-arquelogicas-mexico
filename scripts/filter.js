@@ -22,7 +22,7 @@ function generateCards () {
             cardsZones += `        
             <div class="card-item">
                 <div class="content-img">
-                    <img src="${zone.foto}" alt="${zone.name}">
+                    <img loading="lazy" onerror="this.onerror=null;this.src='./assets/default-img.jpg';" src="${zone.foto}" alt="${zone.name}">
                 </div>
                 <p class="name">${zone.nombre}</p>
                 <div class="card-info">

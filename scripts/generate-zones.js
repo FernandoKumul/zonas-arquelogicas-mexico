@@ -24,7 +24,7 @@ function generateItem(zone){
     const map = document.getElementById('map')
 
     name.innerText = zone.nombre
-    photo.innerHTML = `<img class="img-zone" src=${zone.foto}>`
+    photo.innerHTML = `<img class="img-zone" src=${zone.foto} alt="${zone.nombre}">`
     state.innerText = zone.estado
     access.innerText = zone.abierto ? "Abierto al público" : "Cerrado al público" 
     if (zone.abierto) {

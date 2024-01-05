@@ -26,8 +26,10 @@ function nextSlide() {
 }
 
 function prevSlide() {
-    currentIndex = (currentIndex - 1 + totalSlides) % (totalSlides - slidesPerPage + 1);
-    showSlide(currentIndex);
+    const newIndex = (currentIndex - 1) % (totalSlides - slidesPerPage + 1) ; 
+    if(currentIndex <= 0) return
+    currentIndex = newIndex
+    showSlide(newIndex);
 }
 
 window.addEventListener('resize', function() {
