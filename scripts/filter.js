@@ -1,4 +1,4 @@
-import zones from '../data/zonas.json' assert { type: 'json'}
+import zones from '../data/zonas.json' with { type: 'json'}
 
 const refSelect = document.getElementById("states-select")
 const numZones = document.getElementById("num-zones")
